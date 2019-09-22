@@ -1,14 +1,19 @@
-from flask import Flask,request,jsonify
-from flask_restful import Resource, Api
-from flask_restful import reqparse
-from sklearn.externals import joblib
-import traceback
 import sys
+import os
+import shutil
+import time
+import traceback
+
+from flask import Flask, request, jsonify
+from urllib.request import urlopen
+import urllib.request
+from sklearn.externals import joblib
+import pandas as pd
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LinearRegression
 
 app = Flask(__name__)
-api = Api(app)
-
-forest= None
 
 # 모델 경로
 model_file_name = './model.pkl'
@@ -34,7 +39,8 @@ def predict():
         print('train first')
     return 'no model here'
 
-if __name__ =='__main__':
+# 구동 메인
+if __name__ == '__main__':
     try:
         port = int(sys.argv[1])
     except Exception as e:
