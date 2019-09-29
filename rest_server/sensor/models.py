@@ -1,8 +1,10 @@
 from django.db import models
 
 class Sensor(models.Model):
-    x = models.IntegerField(default=0)
-    y = models.IntegerField(default=0)
-    z = models.IntegerField(default=0)
-    result = models.CharField(max_length=100)
+    x = models.IntegerField()
+    y = models.IntegerField()
+    z = models.IntegerField()
+
+    def __str__(self):
+        return self.x
 # Create your models here.

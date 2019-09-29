@@ -1,9 +1,25 @@
 #!/usr/bin/env python
 import os
 import sys
+from sklearn.externals import joblib
+from flask import jsonify, request
+import traceback
+
+# 모델 경로
+file_directory = 'model'
+file_name='%s/model.pkl' %file_directory
 
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "rest_server.settings")
+    try:
+        forest = joblib.load(file_name)
+        print('모델 있음!! model loaded')
+
+    except Exception as e:
+        print('모델 없음!! No model here - Train first')
+        print(str(e))
+        forest = None
+
     try:
         from django.core.management import execute_from_command_line
     except ImportError:
