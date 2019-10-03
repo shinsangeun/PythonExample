@@ -11,5 +11,6 @@ router.register('sensors',sensor.api.SensorViewSet)
 
 urlpatterns = [
     path('admin/',admin.site.urls),
-    path('predict/premaintenance', views.predict, name='post_list')
+    path('predict/premaintenance', views.predict),
+    path('predict/acceler', views.acceler)
 ]

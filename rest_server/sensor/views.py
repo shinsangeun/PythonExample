@@ -6,6 +6,7 @@ from django.http import HttpResponse, JsonResponse
 from django.views.decorators.csrf import csrf_exempt
 from rest_framework.serializers import *
 import simplejson as json
+import numpy as np
 
 # 모델 경로
 file_directory = 'model'
@@ -38,6 +39,38 @@ def predict(request):
                 return JsonResponse({'result': result})
             except Exception as e:
                 return jsonify({'error': str(e), 'trace': traceback.format_exc()})
+        else:
+            print('train first')
+        return 'no model here'
+    else:
+        print("POST error")
+        return ("Not Post Method")
+
+# 웹서비스
+@csrf_exempt
+def acceler(request):
+    body_code = request.body.decode('utf-8')
+    body = json.loads(body_code)
+    if request.method == "POST":
+        if forest:
+            try:
+                i = 0
+                result2 = []
+                while i < len(body):
+                    result_list = list(body[i].values())
+                    i += 1
+                    array_list = np.array(result_list).reshape(-1, 3)
+
+                    k = 0
+                    while k < len(array_list):
+                        result = list(joblib.load(file_name).predict(array_list))[k]
+                        k += 1
+
+                    result2.append(result)
+
+                return JsonResponse({'result': result2})
+            except Exception as e:
+                return JsonResponse({'error': str(e), 'trace': traceback.format_exc()})
         else:
             print('train first')
         return 'no model here'
