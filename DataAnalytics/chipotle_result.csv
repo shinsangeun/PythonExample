@@ -1,0 +1,1872 @@
+item_name,choice_description,choice_description
+6 Pack Soft Drink,DietCoke,24
+6 Pack Soft Drink,Coke,21
+6 Pack Soft Drink,Sprite,5
+6 Pack Soft Drink,Lemonade,2
+6 Pack Soft Drink,Nestea,2
+Barbacoa Bowl,"TomatilloRedChiliSalsa,Rice,Cheese,Lettuce",5
+Barbacoa Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,Guacamole,Lettuce",2
+Barbacoa Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,Cheese,SourCream",2
+Barbacoa Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,Lettuce",2
+Barbacoa Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",2
+Barbacoa Bowl,"FreshTomatoSalsaMild,BlackBeans,Rice,Cheese,SourCream,Guacamole,Lettuce",2
+Barbacoa Bowl,"FreshTomatoSalsaMild,Rice,Cheese,SourCream,Lettuce",2
+Barbacoa Bowl,RoastedChiliCornSalsa,2
+Barbacoa Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",2
+Barbacoa Bowl,"RoastedChiliCornSalsa,Rice,BlackBeans,Cheese,SourCream,Lettuce",2
+Barbacoa Bowl,"TomatilloGreenChiliSalsaMedium,BlackBeans,Rice,Cheese,Guacamole",2
+Barbacoa Bowl,TomatilloRedChiliSalsa,2
+Barbacoa Bowl,"TomatilloRedChiliSalsa,FajitaVegetables,Rice,BlackBeans,PintoBeans,Cheese,SourCream,Guacamole,Lettuce",2
+Barbacoa Bowl,"TomatilloRedChiliSalsaHot,BlackBeans,Rice,Cheese,SourCream,Lettuce",2
+Barbacoa Bowl,"FreshTomatoMild,Lettuce,BlackBeans,Rice",1
+Barbacoa Bowl,"FreshTomatoMild,Lettuce,Rice,Cheese",1
+Barbacoa Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese",1
+Barbacoa Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Guacamole,Lettuce",1
+Barbacoa Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Cheese",1
+Barbacoa Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,SourCream,Guacamole",1
+Barbacoa Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,SourCream,Lettuce",1
+Barbacoa Bowl,"FreshTomatoSalsa,Rice,BlackBeans,PintoBeans,Cheese,SourCream,Lettuce",1
+Barbacoa Bowl,"FreshTomatoSalsa,Rice,BlackBeans,SourCream,Lettuce",1
+Barbacoa Bowl,"FreshTomatoSalsa,Rice,Cheese,SourCream,Guacamole,Lettuce",1
+Barbacoa Bowl,"FreshTomatoSalsa,Rice,FajitaVegetables,BlackBeans,SourCream",1
+Barbacoa Bowl,Guacamole,1
+Barbacoa Bowl,"Rice,Cheese",1
+Barbacoa Bowl,"RoastedChiliCornSalsa,Cheese,Lettuce",1
+Barbacoa Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,Guacamole",1
+Barbacoa Bowl,"RoastedChiliCornSalsa,PintoBeans,SourCream,Cheese,Lettuce,Guacamole",1
+Barbacoa Bowl,"RoastedChiliCornSalsa,Rice,Cheese,Lettuce",1
+Barbacoa Bowl,"RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,PintoBeans,Rice,FajitaVeggies",1
+Barbacoa Bowl,"TomatilloGreenChiliSalsa,FajitaVegetables,PintoBeans,SourCream,Guacamole,Lettuce",1
+Barbacoa Bowl,"TomatilloGreenChiliSalsa,FajitaVegetables,Rice,BlackBeans,PintoBeans,Guacamole",1
+Barbacoa Bowl,"TomatilloGreenChiliSalsa,Rice,Cheese,Guacamole,Lettuce",1
+Barbacoa Bowl,"TomatilloGreenChiliSalsaMedium,RoastedChiliCornSalsaMedium,BlackBeans,Rice,Cheese,Guacamole",1
+Barbacoa Bowl,"TomatilloGreenChiliSalsaMedium,RoastedChiliCornSalsaMedium,Rice,FajitaVeggies,Guacamole,Lettuce",1
+Barbacoa Bowl,"TomatilloGreenChiliSalsaMedium,TomatilloRedChiliSalsaHot,BlackBeans,Rice,Cheese,Lettuce",1
+Barbacoa Bowl,"TomatilloRedChiliSalsa,BlackBeans,Cheese,SourCream,Guacamole",1
+Barbacoa Bowl,"TomatilloRedChiliSalsa,Cheese,SourCream,Guacamole,Lettuce",1
+Barbacoa Bowl,"TomatilloRedChiliSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Barbacoa Bowl,"TomatilloRedChiliSalsa,Rice,BlackBeans,Cheese",1
+Barbacoa Bowl,"TomatilloRedChiliSalsa,Rice,BlackBeans,Cheese,Lettuce",1
+Barbacoa Bowl,"TomatilloRedChiliSalsa,Rice,BlackBeans,SourCream,Cheese,Lettuce",1
+Barbacoa Bowl,"TomatilloRedChiliSalsa,Rice,FajitaVegetables,BlackBeans,SourCream,Cheese",1
+Barbacoa Bowl,"TomatilloRedChiliSalsa,Rice,FajitaVegetables,BlackBeans,SourCream,Cheese,Lettuce,Guacamole",1
+Barbacoa Bowl,"TomatilloRedChiliSalsa,Rice,PintoBeans,Cheese,Lettuce",1
+Barbacoa Bowl,"TomatilloRedChiliSalsaHot,TomatilloGreenChiliSalsaMedium,Rice,PintoBeans,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Barbacoa Bowl,"TomatilloRedChiliSalsaHot,TomatilloGreenChiliSalsaMedium,Rice,PintoBeans,FajitaVeggies,Lettuce",1
+Barbacoa Burrito,"TomatilloRedChiliSalsa,Rice,Cheese,Lettuce",9
+Barbacoa Burrito,"TomatilloGreenChiliSalsaMedium,Rice,Cheese,SourCream,Lettuce",4
+Barbacoa Burrito,"FreshTomatoSalsa,Rice,PintoBeans,Cheese,Lettuce",2
+Barbacoa Burrito,"FreshTomatoSalsa,Rice,PintoBeans,Cheese,SourCream,Lettuce",2
+Barbacoa Burrito,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,SourCream,Guacamole",2
+Barbacoa Burrito,"RoastedChiliCornSalsaMedium,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",2
+Barbacoa Burrito,TomatilloGreenChiliSalsa,2
+Barbacoa Burrito,"TomatilloGreenChiliSalsa,Rice,BlackBeans,Cheese,Lettuce",2
+Barbacoa Burrito,"TomatilloRedChiliSalsa,Rice,BlackBeans,Cheese,SourCream",2
+Barbacoa Burrito,"TomatilloRedChiliSalsa,Rice,Cheese,SourCream,Lettuce",2
+Barbacoa Burrito,"TomatilloRedChiliSalsaHot,Rice,Cheese,SourCream,Lettuce",2
+Barbacoa Burrito,"BlackBeans,Rice,Cheese",1
+Barbacoa Burrito,"FreshTomatoMild,BlackBeans,Rice,SourCream,Cheese",1
+Barbacoa Burrito,"FreshTomatoMild,Guacamole,Rice,BlackBeans",1
+Barbacoa Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,Guacamole,Lettuce",1
+Barbacoa Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,Lettuce",1
+Barbacoa Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,SourCream,Guacamole,Lettuce",1
+Barbacoa Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,Cheese,Lettuce",1
+Barbacoa Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,Cheese,SourCream",1
+Barbacoa Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,Cheese,SourCream,Guacamole,Lettuce",1
+Barbacoa Burrito,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,Lettuce",1
+Barbacoa Burrito,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,SourCream",1
+Barbacoa Burrito,"FreshTomatoSalsa,Rice,Cheese",1
+Barbacoa Burrito,"FreshTomatoSalsa,Rice,PintoBeans,Cheese",1
+Barbacoa Burrito,"FreshTomatoSalsa,Rice,PintoBeans,Guacamole,Lettuce",1
+Barbacoa Burrito,"FreshTomatoSalsaMild,BlackBeans,Rice,Cheese,SourCream,Guacamole,Lettuce",1
+Barbacoa Burrito,"FreshTomatoSalsaMild,TomatilloGreenChiliSalsaMedium,TomatilloRedChiliSalsaHot,Rice,Cheese,SourCream,Lettuce",1
+Barbacoa Burrito,"FreshTomatoSalsaMild,TomatilloRedChiliSalsaHot,BlackBeans,Rice,Cheese,SourCream",1
+Barbacoa Burrito,RoastedChiliCornSalsa,1
+Barbacoa Burrito,"RoastedChiliCornSalsa,BlackBeans,Cheese,SourCream",1
+Barbacoa Burrito,"RoastedChiliCornSalsa,FajitaVegetables,Rice,Cheese,SourCream,Guacamole,Lettuce",1
+Barbacoa Burrito,"RoastedChiliCornSalsa,FajitaVegetables,Rice,Cheese,SourCream,Lettuce",1
+Barbacoa Burrito,"RoastedChiliCornSalsa,FajitaVegetables,Rice,PintoBeans,Cheese,SourCream,Lettuce",1
+Barbacoa Burrito,"RoastedChiliCornSalsa,FajitaVegetables,Rice,SourCream,Guacamole",1
+Barbacoa Burrito,"RoastedChiliCornSalsa,FajitaVegetables,SourCream,Cheese,Lettuce,Guacamole",1
+Barbacoa Burrito,"RoastedChiliCornSalsa,Rice,BlackBeans,Cheese,Guacamole,Lettuce",1
+Barbacoa Burrito,"RoastedChiliCornSalsa,Rice,BlackBeans,Cheese,Lettuce,Guacamole",1
+Barbacoa Burrito,"RoastedChiliCornSalsa,Rice,BlackBeans,Cheese,SourCream",1
+Barbacoa Burrito,"RoastedChiliCornSalsa,Rice,BlackBeans,Cheese,SourCream,Lettuce",1
+Barbacoa Burrito,"RoastedChiliCornSalsa,Rice,BlackBeans,SourCream,Cheese",1
+Barbacoa Burrito,"RoastedChiliCornSalsa,Rice,Cheese,SourCream,Lettuce",1
+Barbacoa Burrito,"RoastedChiliCornSalsa,Rice,PintoBeans,Cheese,Guacamole",1
+Barbacoa Burrito,"RoastedChiliCornSalsa,Rice,PintoBeans,Cheese,Guacamole,Lettuce",1
+Barbacoa Burrito,"RoastedChiliCornSalsa,Rice,PintoBeans,Cheese,Lettuce,Guacamole",1
+Barbacoa Burrito,"RoastedChiliCornSalsa,Rice,PintoBeans,Cheese,SourCream",1
+Barbacoa Burrito,"RoastedChiliCornSalsa,Rice,PintoBeans,Cheese,SourCream,Lettuce",1
+Barbacoa Burrito,"RoastedChiliCornSalsa,Rice,PintoBeans,SourCream,Cheese",1
+Barbacoa Burrito,"RoastedChiliCornSalsaMedium,BlackBeans,Rice,Cheese,SourCream",1
+Barbacoa Burrito,"RoastedChiliCornSalsaMedium,BlackBeans,Rice,FajitaVeggies,Cheese,Lettuce",1
+Barbacoa Burrito,"RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,BlackBeans,Rice,Cheese,SourCream",1
+Barbacoa Burrito,"TomatilloGreenChiliSalsa,FajitaVegetables,PintoBeans,SourCream,Cheese,Lettuce",1
+Barbacoa Burrito,"TomatilloGreenChiliSalsa,Rice,BlackBeans,SourCream,Cheese",1
+Barbacoa Burrito,"TomatilloGreenChiliSalsa,Rice,BlackBeans,SourCream,Cheese,Lettuce",1
+Barbacoa Burrito,"TomatilloGreenChiliSalsa,Rice,FajitaVegetables,PintoBeans,SourCream,Cheese",1
+Barbacoa Burrito,"TomatilloGreenChiliSalsa,Rice,PintoBeans,Cheese,Guacamole",1
+Barbacoa Burrito,"TomatilloGreenChiliSalsaMedium,Rice,Cheese,SourCream",1
+Barbacoa Burrito,"TomatilloGreenChiliSalsaMedium,TomatilloRedChiliSalsaHot,Rice,Cheese,SourCream,Lettuce",1
+Barbacoa Burrito,"TomatilloRedChiliSalsa,Rice,BlackBeans,Cheese,Guacamole",1
+Barbacoa Burrito,"TomatilloRedChiliSalsa,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Barbacoa Burrito,"TomatilloRedChiliSalsa,Rice,Cheese",1
+Barbacoa Burrito,"TomatilloRedChiliSalsa,Rice,Cheese,Guacamole",1
+Barbacoa Burrito,"TomatilloRedChiliSalsa,Rice,Cheese,SourCream,Guacamole,Lettuce",1
+Barbacoa Burrito,"TomatilloRedChiliSalsa,Rice,FajitaVegetables,BlackBeans,SourCream,Cheese,Guacamole",1
+Barbacoa Burrito,"TomatilloRedChiliSalsa,Rice,FajitaVegetables,PintoBeans,SourCream,Cheese",1
+Barbacoa Burrito,"TomatilloRedChiliSalsa,Rice,FajitaVegetables,SourCream,Cheese,Lettuce,Guacamole",1
+Barbacoa Burrito,"TomatilloRedChiliSalsa,Rice,PintoBeans,Cheese,SourCream,Lettuce",1
+Barbacoa Burrito,"TomatilloRedChiliSalsa,Rice,SourCream,Cheese,Guacamole",1
+Barbacoa Burrito,"TomatilloRedChiliSalsaHot,FreshTomatoSalsaMild,TomatilloGreenChiliSalsaMedium,Rice,PintoBeans,Cheese",1
+Barbacoa Burrito,"TomatilloRedChiliSalsaHot,PintoBeans,Rice,Cheese,SourCream,Lettuce",1
+Barbacoa Burrito,"TomatilloRedChiliSalsaHot,Rice,Cheese,Lettuce",1
+Barbacoa Burrito,"TomatilloRedChiliSalsaHot,Rice,Cheese,SourCream",1
+Barbacoa Crispy Tacos,"FreshTomatoSalsa,Guacamole",1
+Barbacoa Crispy Tacos,"FreshTomatoSalsa,Rice,Cheese,SourCream",1
+Barbacoa Crispy Tacos,"FreshTomatoSalsa,SourCream,Cheese,Rice",1
+Barbacoa Crispy Tacos,"FreshTomatoSalsa,SourCream,Lettuce",1
+Barbacoa Crispy Tacos,"FreshTomatoSalsaMild,TomatilloGreenChiliSalsaMedium,PintoBeans,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Barbacoa Crispy Tacos,"RoastedChiliCornSalsa,FajitaVegetables,BlackBeans,Cheese",1
+Barbacoa Crispy Tacos,"RoastedChiliCornSalsa,Rice,Cheese,Lettuce",1
+Barbacoa Crispy Tacos,"RoastedChiliCornSalsa,Rice,Cheese,Lettuce,Guacamole",1
+Barbacoa Crispy Tacos,"RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,Cheese,SourCream,Guacamole",1
+Barbacoa Crispy Tacos,"TomatilloRedChiliSalsa,Rice,BlackBeans,Cheese,SourCream,Guacamole",1
+Barbacoa Crispy Tacos,"TomatilloRedChiliSalsaHot,BlackBeans,Cheese,SourCream,Lettuce",1
+Barbacoa Salad Bowl,RoastedChiliCornSalsa,2
+Barbacoa Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,Guacamole,Lettuce",1
+Barbacoa Salad Bowl,"FreshTomatoSalsa,Guacamole",1
+Barbacoa Salad Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,SourCream",1
+Barbacoa Salad Bowl,"FreshTomatoSalsa,Rice,FajitaVegetables,PintoBeans,BlackBeans,SourCream,Cheese,Lettuce,Guacamole",1
+Barbacoa Salad Bowl,"FreshTomatoSalsa,Rice,PintoBeans,Cheese,Lettuce",1
+Barbacoa Salad Bowl,"TomatilloGreenChiliSalsa,FajitaVegetables,Rice,Cheese,SourCream,Lettuce",1
+Barbacoa Salad Bowl,"TomatilloGreenChiliSalsa,Rice,FajitaVegetables,PintoBeans,SourCream,Cheese,Lettuce,Guacamole",1
+Barbacoa Salad Bowl,"TomatilloRedChiliSalsa,BlackBeans,Cheese,SourCream,Guacamole",1
+Barbacoa Soft Tacos,"TomatilloRedChiliSalsa,Rice,PintoBeans,Cheese,SourCream",6
+Barbacoa Soft Tacos,"TomatilloRedChiliSalsa,Rice,Cheese,SourCream,Lettuce",4
+Barbacoa Soft Tacos,"FreshTomatoSalsa,BlackBeans,Cheese,Lettuce",1
+Barbacoa Soft Tacos,"FreshTomatoSalsa,FajitaVegetables,BlackBeans,Lettuce",1
+Barbacoa Soft Tacos,"FreshTomatoSalsa,Rice,BlackBeans,PintoBeans,Cheese,SourCream",1
+Barbacoa Soft Tacos,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,PintoBeans,Cheese,SourCream,Lettuce",1
+Barbacoa Soft Tacos,"RoastedChiliCornSalsa,Cheese,SourCream,Guacamole",1
+Barbacoa Soft Tacos,"RoastedChiliCornSalsa,FajitaVegetables,BlackBeans,Cheese,SourCream,Lettuce",1
+Barbacoa Soft Tacos,"RoastedChiliCornSalsa,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Barbacoa Soft Tacos,"RoastedChiliCornSalsa,Rice,Cheese,SourCream,Guacamole",1
+Barbacoa Soft Tacos,"RoastedChiliCornSalsa,Rice,PintoBeans,Cheese,SourCream,Guacamole",1
+Barbacoa Soft Tacos,"TomatilloGreenChiliSalsa,PintoBeans,SourCream,Guacamole",1
+Barbacoa Soft Tacos,"TomatilloGreenChiliSalsa,SourCream,Cheese,Lettuce",1
+Barbacoa Soft Tacos,"TomatilloRedChiliSalsa,BlackBeans,Cheese,SourCream,Guacamole",1
+Barbacoa Soft Tacos,"TomatilloRedChiliSalsa,FajitaVegetables,Guacamole,Lettuce",1
+Barbacoa Soft Tacos,"TomatilloRedChiliSalsaHot,PintoBeans,Cheese,SourCream,Lettuce",1
+Barbacoa Soft Tacos,"TomatilloRedChiliSalsaHot,Rice,Cheese,Guacamole",1
+Bottled Water,Origin,162
+Bowl,"AdoboMarinatedandGrilledSteak,SourCream,Salsa,Cheese,CilantroLimeRice,Guacamole",1
+Bowl,"BraisedCarnitas,PintoBeans,SourCream,Cheese,CilantroLimeRice",1
+Burrito,"AdoboMarinatedandGrilledChicken,PintoBeans,SourCream,Salsa,Cheese,CilantroLimeRice,Guacamole",1
+Burrito,"AdoboMarinatedandGrilledChicken,SourCream,Cheese,CilantroLimeRice",1
+Burrito,"BraisedBarbacoa,PintoBeans,SourCream,Salsa,Cheese,CilantroLimeRice,Guacamole",1
+Burrito,"BraisedBarbacoa,VegetarianBlackBeans,SourCream,Salsa,Cheese,CilantroLimeRice",1
+Burrito,"WhiteRice,AdoboMarinatedandGrilledSteak,PintoBeans,SourCream,Salsa,Cheese,CilantroLimeRice",1
+Burrito,"WhiteRice,AdoboMarinatedandGrilledSteak,Salsa,Cheese",1
+Canned Soda,CocaCola,26
+Canned Soda,DrPepper,18
+Canned Soda,Sprite,17
+Canned Soda,DietCoke,15
+Canned Soda,MountainDew,15
+Canned Soda,DietDrPepper,13
+Canned Soft Drink,Coke,102
+Canned Soft Drink,DietCoke,95
+Canned Soft Drink,Sprite,55
+Canned Soft Drink,Lemonade,31
+Canned Soft Drink,Nestea,18
+Carnitas Bowl,"FreshTomatoSalsa,Rice,FajitaVegetables,BlackBeans,Cheese,Lettuce,Guacamole",3
+Carnitas Bowl,"TomatilloRedChiliSalsaHot,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",3
+Carnitas Bowl,"FreshTomatoMild,Guacamole,SourCream,Cheese",2
+Carnitas Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,Guacamole,Lettuce",2
+Carnitas Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,Guacamole,Lettuce",2
+Carnitas Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",2
+Carnitas Bowl,"TomatilloGreenChiliSalsa,Rice,PintoBeans,Cheese,Guacamole,Lettuce",2
+Carnitas Bowl,"FreshTomatoMild,Guacamole,Lettuce,Rice,SourCream,Cheese",1
+Carnitas Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream",1
+Carnitas Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Lettuce",1
+Carnitas Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Lettuce",1
+Carnitas Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,PintoBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Carnitas Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,PintoBeans,Cheese,SourCream,Lettuce",1
+Carnitas Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,PintoBeans,Cheese,SourCream,Lettuce",1
+Carnitas Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,PintoBeans,Lettuce",1
+Carnitas Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,Lettuce",1
+Carnitas Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,SourCream",1
+Carnitas Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,SourCream,Guacamole",1
+Carnitas Bowl,"FreshTomatoSalsa,Rice,BlackBeans,PintoBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Carnitas Bowl,"FreshTomatoSalsa,Rice,Cheese,SourCream,Guacamole,Lettuce",1
+Carnitas Bowl,"FreshTomatoSalsa,Rice,FajitaVegetables,BlackBeans,Lettuce,Guacamole",1
+Carnitas Bowl,"FreshTomatoSalsa,Rice,FajitaVegetables,BlackBeans,SourCream,Cheese,Lettuce",1
+Carnitas Bowl,"FreshTomatoSalsa,Rice,PintoBeans,Cheese,Lettuce",1
+Carnitas Bowl,"FreshTomatoSalsa,Rice,SourCream,Guacamole,Lettuce",1
+Carnitas Bowl,"FreshTomatoSalsaMild,FajitaVeggies,Cheese,SourCream,Guacamole",1
+Carnitas Bowl,"FreshTomatoSalsaMild,PintoBeans,Rice,Cheese,SourCream,Lettuce",1
+Carnitas Bowl,"FreshTomatoSalsaMild,Rice,Cheese,SourCream",1
+Carnitas Bowl,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,Rice,Cheese,Lettuce",1
+Carnitas Bowl,"FreshTomatoSalsaMild,TomatilloGreenChiliSalsaMedium,Rice,FajitaVeggies,Lettuce",1
+Carnitas Bowl,"FreshTomatoSalsaMild,TomatilloGreenChiliSalsaMedium,RoastedChiliCornSalsaMedium,BlackBeans,Rice,Cheese",1
+Carnitas Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Cheese",1
+Carnitas Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream",1
+Carnitas Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,Cheese,SourCream",1
+Carnitas Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,PintoBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Carnitas Bowl,"RoastedChiliCornSalsa,Rice,BlackBeans,Cheese,SourCream",1
+Carnitas Bowl,"RoastedChiliCornSalsa,Rice,BlackBeans,Cheese,SourCream,Lettuce",1
+Carnitas Bowl,"RoastedChiliCornSalsa,Rice,BlackBeans,PintoBeans,Cheese,SourCream,Lettuce",1
+Carnitas Bowl,"RoastedChiliCornSalsa,Rice,FajitaVegetables,BlackBeans,SourCream,Cheese",1
+Carnitas Bowl,"RoastedChiliCornSalsa,Rice,PintoBeans,SourCream",1
+Carnitas Bowl,"RoastedChiliCornSalsa,Rice,SourCream,Cheese,Lettuce,Guacamole",1
+Carnitas Bowl,"RoastedChiliCornSalsaMedium,PintoBeans,Rice,Cheese,Guacamole,Lettuce",1
+Carnitas Bowl,"RoastedChiliCornSalsaMedium,PintoBeans,Rice,FajitaVeggies,Cheese,SourCream,Guacamole,Lettuce",1
+Carnitas Bowl,"RoastedChiliCornSalsaMedium,Rice,Cheese,SourCream,Lettuce",1
+Carnitas Bowl,"RoastedChiliCornSalsaMedium,Rice,Guacamole,Lettuce",1
+Carnitas Bowl,"RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,BlackBeans,Rice,Cheese,Lettuce",1
+Carnitas Bowl,"RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,FreshTomatoSalsaMild,Rice,PintoBeans,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Carnitas Bowl,"RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,Rice,PintoBeans,Lettuce",1
+Carnitas Bowl,"TomatilloGreenChiliSalsa,FajitaVegetables,PintoBeans,SourCream,Cheese,Lettuce",1
+Carnitas Bowl,"TomatilloGreenChiliSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Carnitas Bowl,"TomatilloGreenChiliSalsa,PintoBeans,BlackBeans",1
+Carnitas Bowl,"TomatilloGreenChiliSalsa,Rice,BlackBeans,PintoBeans,Cheese,Guacamole",1
+Carnitas Bowl,"TomatilloRedChiliSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,Guacamole,Lettuce",1
+Carnitas Bowl,"TomatilloRedChiliSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Lettuce",1
+Carnitas Bowl,"TomatilloRedChiliSalsa,Rice,BlackBeans,Cheese,SourCream",1
+Carnitas Bowl,"TomatilloRedChiliSalsaHot,BlackBeans,Rice,Cheese,SourCream,Lettuce",1
+Carnitas Bowl,"TomatilloRedChiliSalsaHot,FreshTomatoSalsaMild,PintoBeans,Cheese,Guacamole,Lettuce",1
+Carnitas Bowl,"TomatilloRedChiliSalsaHot,FreshTomatoSalsaMild,Rice,FajitaVeggies,Cheese,SourCream,Guacamole,Lettuce",1
+Carnitas Bowl,"TomatilloRedChiliSalsaHot,FreshTomatoSalsaMild,Rice,PintoBeans,Cheese,Guacamole",1
+Carnitas Bowl,"TomatilloRedChiliSalsaHot,Lettuce,SourCream,Cheese,FajitaVeggies,Rice,BlackBeans",1
+Carnitas Burrito,"FreshTomatoSalsa,Rice,PintoBeans,SourCream,Cheese",4
+Carnitas Burrito,"FreshTomatoSalsa,Rice,PintoBeans,Cheese,SourCream",3
+Carnitas Burrito,"FreshTomatoMild,Lettuce,Rice",2
+Carnitas Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",2
+Carnitas Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Lettuce",2
+Carnitas Burrito,"FreshTomatoSalsa,Rice,PintoBeans,Cheese",2
+Carnitas Burrito,"FreshTomatoSalsaMild,BlackBeans,Rice,Cheese,SourCream,Guacamole",2
+Carnitas Burrito,"TomatilloGreenChiliSalsa,Rice,PintoBeans,Cheese,SourCream,Guacamole",2
+Carnitas Burrito,"TomatilloGreenChiliSalsa,Rice,PintoBeans,SourCream",2
+Carnitas Burrito,"FreshTomatoMild,Lettuce,BlackBeans,Guacamole,Rice,SourCream,Cheese",1
+Carnitas Burrito,"FreshTomatoSalsa,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Carnitas Burrito,"FreshTomatoSalsa,BlackBeans,PintoBeans,Cheese,SourCream,Lettuce",1
+Carnitas Burrito,"FreshTomatoSalsa,Cheese,Lettuce",1
+Carnitas Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream",1
+Carnitas Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,PintoBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Carnitas Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,PintoBeans,Cheese,SourCream,Lettuce",1
+Carnitas Burrito,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,Lettuce",1
+Carnitas Burrito,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Carnitas Burrito,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,SourCream,Lettuce",1
+Carnitas Burrito,"FreshTomatoSalsa,Rice,BlackBeans,Guacamole,Lettuce",1
+Carnitas Burrito,"FreshTomatoSalsa,Rice,Cheese,SourCream,Lettuce",1
+Carnitas Burrito,"FreshTomatoSalsa,Rice,PintoBeans,Cheese,Lettuce",1
+Carnitas Burrito,"FreshTomatoSalsaMild,BlackBeans,Rice,Cheese,SourCream",1
+Carnitas Burrito,"FreshTomatoSalsaMild,PintoBeans,BlackBeans,Rice,Cheese,SourCream,Lettuce",1
+Carnitas Burrito,"FreshTomatoSalsaMild,PintoBeans,Rice,FajitaVeggies,SourCream",1
+Carnitas Burrito,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,BlackBeans,Rice,Cheese,SourCream,Lettuce",1
+Carnitas Burrito,"RoastedChiliCornSalsa,Cheese,Rice,Guacamole",1
+Carnitas Burrito,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Lettuce",1
+Carnitas Burrito,"RoastedChiliCornSalsa,Rice,BlackBeans,SourCream,Cheese",1
+Carnitas Burrito,"RoastedChiliCornSalsa,Rice,Cheese,Guacamole",1
+Carnitas Burrito,"RoastedChiliCornSalsa,Rice,PintoBeans,Guacamole,Lettuce",1
+Carnitas Burrito,"RoastedChiliCornSalsa,SourCream,Guacamole",1
+Carnitas Burrito,"RoastedChiliCornSalsaMedium,BlackBeans,Lettuce",1
+Carnitas Burrito,"TomatilloGreenChiliSalsa,FajitaVegetables,Rice,BlackBeans,Guacamole,Lettuce",1
+Carnitas Burrito,"TomatilloGreenChiliSalsa,FajitaVegetables,Rice,Cheese,SourCream",1
+Carnitas Burrito,"TomatilloGreenChiliSalsa,Rice,BlackBeans,Cheese,SourCream",1
+Carnitas Burrito,"TomatilloGreenChiliSalsa,Rice,FajitaVegetables,SourCream,Cheese,Lettuce,Guacamole",1
+Carnitas Burrito,"TomatilloGreenChiliSalsa,SourCream,Cheese,Guacamole",1
+Carnitas Burrito,"TomatilloGreenChiliSalsaMedium,RoastedChiliCornSalsaMedium,BlackBeans,Rice,SourCream,Lettuce",1
+Carnitas Burrito,TomatilloRedChiliSalsa,1
+Carnitas Burrito,"TomatilloRedChiliSalsa,BlackBeans,Cheese,SourCream,Guacamole",1
+Carnitas Burrito,"TomatilloRedChiliSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Lettuce",1
+Carnitas Burrito,"TomatilloRedChiliSalsa,Rice,Cheese,SourCream,Lettuce",1
+Carnitas Burrito,"TomatilloRedChiliSalsa,Rice,PintoBeans,Cheese,SourCream",1
+Carnitas Burrito,"TomatilloRedChiliSalsaHot,BlackBeans,Rice,Cheese,SourCream,Lettuce",1
+Carnitas Burrito,"TomatilloRedChiliSalsaHot,BlackBeans,Rice,FajitaVeggies,Cheese,Lettuce",1
+Carnitas Burrito,"TomatilloRedChiliSalsaHot,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Carnitas Crispy Tacos,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Carnitas Crispy Tacos,"FreshTomatoSalsa,PintoBeans,SourCream,Cheese,Lettuce",1
+Carnitas Crispy Tacos,"FreshTomatoSalsaMild,Cheese,Lettuce",1
+Carnitas Crispy Tacos,RoastedChiliCornSalsa,1
+Carnitas Crispy Tacos,"TomatilloGreenChiliSalsa,Rice,BlackBeans,Cheese,SourCream,Guacamole",1
+Carnitas Crispy Tacos,"TomatilloGreenChiliSalsaMedium,FajitaVeggies,Cheese,Lettuce",1
+Carnitas Crispy Tacos,"TomatilloRedChiliSalsaHot,BlackBeans,Rice,Cheese,SourCream,Lettuce",1
+Carnitas Salad,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,BlackBeans,Rice,Cheese,SourCream",1
+Carnitas Salad Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,Guacamole",1
+Carnitas Salad Bowl,"FreshTomatoSalsa,Rice,Cheese,SourCream",1
+Carnitas Salad Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Carnitas Salad Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,PintoBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Carnitas Salad Bowl,"TomatilloGreenChiliSalsa,BlackBeans,Cheese,Guacamole",1
+Carnitas Salad Bowl,"TomatilloGreenChiliSalsa,Rice,PintoBeans,Cheese,SourCream,Lettuce",1
+Carnitas Soft Tacos,"TomatilloRedChiliSalsa,Rice,Cheese,SourCream,Lettuce",7
+Carnitas Soft Tacos,"RoastedChiliCornSalsa,Cheese,Lettuce",3
+Carnitas Soft Tacos,"RoastedChiliCornSalsa,Rice,Cheese,SourCream,Lettuce",3
+Carnitas Soft Tacos,"FreshTomatoSalsa,Cheese,Lettuce",2
+Carnitas Soft Tacos,RoastedChiliCornSalsa,2
+Carnitas Soft Tacos,"FreshTomatoSalsa,Cheese,SourCream,Lettuce",1
+Carnitas Soft Tacos,"FreshTomatoSalsa,FajitaVegetables,BlackBeans,Cheese",1
+Carnitas Soft Tacos,"FreshTomatoSalsa,FajitaVegetables,Rice,PintoBeans,Cheese,SourCream,Lettuce",1
+Carnitas Soft Tacos,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,SourCream,Lettuce",1
+Carnitas Soft Tacos,"FreshTomatoSalsa,SourCream,Guacamole",1
+Carnitas Soft Tacos,"FreshTomatoSalsa,SourCream,Lettuce",1
+Carnitas Soft Tacos,"FreshTomatoSalsaMild,BlackBeans,Rice,FajitaVeggies,Cheese,Lettuce",1
+Carnitas Soft Tacos,"FreshTomatoSalsaMild,Rice,Cheese,Lettuce",1
+Carnitas Soft Tacos,"FreshTomatoSalsaMild,Rice,FajitaVeggies,Cheese,Lettuce,BlackBeans",1
+Carnitas Soft Tacos,"FreshTomatoSalsaMild,Rice,PintoBeans,Cheese,SourCream",1
+Carnitas Soft Tacos,"RoastedChiliCornSalsa,FajitaVegetables,Rice,Cheese,SourCream,Guacamole",1
+Carnitas Soft Tacos,"RoastedChiliCornSalsa,Lettuce,Cheese",1
+Carnitas Soft Tacos,"RoastedChiliCornSalsa,Lettuce,SourCream,Cheese,Rice",1
+Carnitas Soft Tacos,"RoastedChiliCornSalsa,Rice,PintoBeans,Cheese,SourCream,Lettuce",1
+Carnitas Soft Tacos,"RoastedChiliCornSalsaMedium,BlackBeans,Rice,Cheese",1
+Carnitas Soft Tacos,TomatilloGreenChiliSalsa,1
+Carnitas Soft Tacos,"TomatilloGreenChiliSalsa,Cheese,SourCream,Lettuce",1
+Carnitas Soft Tacos,"TomatilloGreenChiliSalsa,FajitaVegetables,PintoBeans,Cheese",1
+Carnitas Soft Tacos,"TomatilloRedChiliSalsa,Cheese,SourCream,Lettuce",1
+Carnitas Soft Tacos,"TomatilloRedChiliSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Lettuce",1
+Carnitas Soft Tacos,"TomatilloRedChiliSalsa,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Carnitas Soft Tacos,"TomatilloRedChiliSalsa,Rice,Lettuce",1
+Carnitas Soft Tacos,"TomatilloRedChiliSalsaHot,Cheese,SourCream,Lettuce",1
+Chicken Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice",17
+Chicken Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",14
+Chicken Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,SourCream,Lettuce",14
+Chicken Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Cheese",13
+Chicken Bowl,"FreshTomatoSalsa,Rice,Cheese,Lettuce",13
+Chicken Bowl,"FreshTomatoSalsa,Rice,Cheese,SourCream,Lettuce",13
+Chicken Bowl,"TomatilloGreenChiliSalsa,Rice,PintoBeans,SourCream,Lettuce",12
+Chicken Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,SourCream",11
+Chicken Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,Lettuce",10
+Chicken Bowl,"FreshTomatoSalsa,Rice,Cheese,SourCream",10
+Chicken Bowl,"RoastedChiliCornSalsa,Rice,BlackBeans,Cheese,SourCream,Lettuce",10
+Chicken Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Lettuce",9
+Chicken Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,Cheese,SourCream,Guacamole,Lettuce",9
+Chicken Bowl,"TomatilloRedChiliSalsaHot,BlackBeans,Rice,Cheese,Lettuce",9
+Chicken Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,Guacamole,Lettuce",8
+Chicken Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,Guacamole,Lettuce",8
+Chicken Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,SourCream,Guacamole",8
+Chicken Bowl,"FreshTomatoSalsa,Rice,FajitaVegetables",8
+Chicken Bowl,"TomatilloRedChiliSalsa,Rice,BlackBeans,Cheese,SourCream,Lettuce",8
+Chicken Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",7
+Chicken Bowl,"FreshTomatoSalsaMild,TomatilloRedChiliSalsaHot,BlackBeans,Rice,Cheese,SourCream",7
+Chicken Bowl,"RoastedChiliCornSalsa,Rice,BlackBeans,SourCream,Cheese,Guacamole",7
+Chicken Bowl,"TomatilloRedChiliSalsa,Rice,BlackBeans,SourCream,Cheese,Lettuce",7
+Chicken Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,PintoBeans,Cheese,SourCream,Guacamole,Lettuce",5
+Chicken Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,Lettuce",5
+Chicken Bowl,"FreshTomatoSalsa,Rice,Cheese,SourCream,Guacamole",5
+Chicken Bowl,"FreshTomatoSalsaMild,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",5
+Chicken Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,Cheese,SourCream,Lettuce",5
+Chicken Bowl,"RoastedChiliCornSalsaMedium,FreshTomatoSalsaMild,Rice,FajitaVeggies",5
+Chicken Bowl,"TomatilloRedChiliSalsa,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",5
+Chicken Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,SourCream,Lettuce",4
+Chicken Bowl,"FreshTomatoSalsa,Rice,FajitaVegetables,SourCream,Cheese,Guacamole",4
+Chicken Bowl,"FreshTomatoSalsa,Rice,PintoBeans,SourCream,Cheese,Lettuce",4
+Chicken Bowl,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,Rice,FajitaVeggies",4
+Chicken Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,PintoBeans,Cheese,SourCream,Lettuce",4
+Chicken Bowl,"RoastedChiliCornSalsa,Rice,BlackBeans,Cheese,Guacamole",4
+Chicken Bowl,"RoastedChiliCornSalsa,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",4
+Chicken Bowl,"RoastedChiliCornSalsa,Rice,PintoBeans,Cheese,SourCream,Lettuce",4
+Chicken Bowl,"TomatilloGreenChiliSalsa,Rice,Cheese,SourCream,Lettuce",4
+Chicken Bowl,"TomatilloGreenChiliSalsa,Rice,SourCream,Cheese,Guacamole",4
+Chicken Bowl,FreshTomatoSalsa,3
+Chicken Bowl,"FreshTomatoSalsa,Cheese",3
+Chicken Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese",3
+Chicken Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Guacamole,Lettuce",3
+Chicken Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,Cheese,SourCream,Guacamole",3
+Chicken Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,Cheese,SourCream,Lettuce",3
+Chicken Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,Guacamole,Lettuce",3
+Chicken Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Guacamole,Lettuce",3
+Chicken Bowl,"FreshTomatoSalsa,Rice,BlackBeans,SourCream",3
+Chicken Bowl,"FreshTomatoSalsa,Rice,BlackBeans,SourCream,Cheese",3
+Chicken Bowl,"FreshTomatoSalsa,Rice,PintoBeans,Cheese,Lettuce",3
+Chicken Bowl,"FreshTomatoSalsa,Rice,PintoBeans,Cheese,SourCream,Lettuce",3
+Chicken Bowl,"FreshTomatoSalsaMild,BlackBeans,Rice,Cheese",3
+Chicken Bowl,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,BlackBeans,Rice,Cheese,SourCream,Lettuce",3
+Chicken Bowl,"FreshTomatoSalsaMild,TomatilloRedChiliSalsaHot,BlackBeans,Rice,Cheese,SourCream,Guacamole",3
+Chicken Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",3
+Chicken Bowl,"RoastedChiliCornSalsa,Rice,BlackBeans,Cheese",3
+Chicken Bowl,"RoastedChiliCornSalsa,Rice,BlackBeans,SourCream,Guacamole",3
+Chicken Bowl,"RoastedChiliCornSalsa,Rice,Cheese,Lettuce",3
+Chicken Bowl,"RoastedChiliCornSalsaMedium,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream",3
+Chicken Bowl,"RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,FreshTomatoSalsaMild,Rice,PintoBeans,FajitaVeggies,Cheese,SourCream,Lettuce",3
+Chicken Bowl,"TomatilloGreenChiliSalsa,Rice,BlackBeans,Cheese",3
+Chicken Bowl,"TomatilloGreenChiliSalsa,Rice,BlackBeans,SourCream,Lettuce",3
+Chicken Bowl,"TomatilloRedChiliSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream",3
+Chicken Bowl,"TomatilloRedChiliSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",3
+Chicken Bowl,"TomatilloRedChiliSalsa,Rice,Cheese,Lettuce",3
+Chicken Bowl,"TomatilloRedChiliSalsaHot,PintoBeans,Rice,FajitaVeggies,Cheese,SourCream,Guacamole",3
+Chicken Bowl,"TomatilloRedChiliSalsaHot,Rice,BlackBeans,Cheese,Lettuce",3
+Chicken Bowl,"TomatilloRedChiliSalsaHot,Rice,Cheese,SourCream,Lettuce",3
+Chicken Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,PintoBeans,Cheese,SourCream,Guacamole,Lettuce",2
+Chicken Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,SourCream",2
+Chicken Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,SourCream,Guacamole,Lettuce",2
+Chicken Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,SourCream,Lettuce",2
+Chicken Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,Cheese,Guacamole",2
+Chicken Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,PintoBeans,Cheese,Guacamole,Lettuce",2
+Chicken Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,SourCream,Guacamole,Lettuce",2
+Chicken Bowl,"FreshTomatoSalsa,Guacamole,Cheese,SourCream,FajitaVegetables,Rice",2
+Chicken Bowl,"FreshTomatoSalsa,Guacamole,SourCream,Cheese,Rice,FajitaVegetables",2
+Chicken Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Guacamole",2
+Chicken Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Lettuce",2
+Chicken Bowl,"FreshTomatoSalsa,Rice,BlackBeans,PintoBeans,Cheese,Lettuce",2
+Chicken Bowl,"FreshTomatoSalsa,Rice,BlackBeans,SourCream,Guacamole,Lettuce",2
+Chicken Bowl,"FreshTomatoSalsa,Rice,Lettuce",2
+Chicken Bowl,"FreshTomatoSalsa,SourCream,FajitaVegetables,Rice,Guacamole,Cheese",2
+Chicken Bowl,"FreshTomatoSalsa,SourCream,Guacamole,Lettuce",2
+Chicken Bowl,"FreshTomatoSalsaMild,BlackBeans,Rice,FajitaVeggies,Cheese",2
+Chicken Bowl,"FreshTomatoSalsaMild,BlackBeans,Rice,Guacamole,Lettuce",2
+Chicken Bowl,"FreshTomatoSalsaMild,BlackBeans,Rice,SourCream,Guacamole",2
+Chicken Bowl,"FreshTomatoSalsaMild,Rice,BlackBeans,FajitaVeggies,Cheese,Guacamole,Lettuce",2
+Chicken Bowl,"FreshTomatoSalsaMild,Rice,BlackBeans,FajitaVeggies,Cheese,SourCream,Lettuce",2
+Chicken Bowl,"FreshTomatoSalsaMild,Rice,Cheese,SourCream,Guacamole,Lettuce",2
+Chicken Bowl,"FreshTomatoSalsaMild,TomatilloGreenChiliSalsaMedium,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",2
+Chicken Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Guacamole",2
+Chicken Bowl,"RoastedChiliCornSalsa,Rice,BlackBeans,Cheese,Lettuce,Guacamole",2
+Chicken Bowl,"RoastedChiliCornSalsa,Rice,BlackBeans,Guacamole",2
+Chicken Bowl,"RoastedChiliCornSalsa,Rice,Cheese,SourCream,Lettuce",2
+Chicken Bowl,"RoastedChiliCornSalsa,Rice,FajitaVegetables,BlackBeans,SourCream,Cheese,Lettuce",2
+Chicken Bowl,"RoastedChiliCornSalsa,Rice,FajitaVegetables,Cheese,Lettuce",2
+Chicken Bowl,"RoastedChiliCornSalsa,Rice,PintoBeans,Cheese,SourCream,Guacamole,Lettuce",2
+Chicken Bowl,"RoastedChiliCornSalsa,Rice,PintoBeans,SourCream,Cheese,Guacamole",2
+Chicken Bowl,"RoastedChiliCornSalsaMedium,BlackBeans,Rice,Cheese,SourCream,Lettuce",2
+Chicken Bowl,"RoastedChiliCornSalsaMedium,FreshTomatoSalsaMild,Rice,BlackBeans,FajitaVeggies,Guacamole",2
+Chicken Bowl,"RoastedChiliCornSalsaMedium,Rice,Cheese",2
+Chicken Bowl,"RoastedChiliCornSalsaMedium,Rice,Cheese,Lettuce",2
+Chicken Bowl,"RoastedChiliCornSalsaMedium,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",2
+Chicken Bowl,"RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,BlackBeans,Rice,FajitaVeggies,Guacamole,Lettuce",2
+Chicken Bowl,"TomatilloGreenChiliSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,Lettuce",2
+Chicken Bowl,"TomatilloGreenChiliSalsa,Rice,BlackBeans,Cheese,SourCream",2
+Chicken Bowl,"TomatilloGreenChiliSalsa,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",2
+Chicken Bowl,"TomatilloGreenChiliSalsa,Rice,BlackBeans,Guacamole,Lettuce",2
+Chicken Bowl,"TomatilloGreenChiliSalsa,Rice,BlackBeans,SourCream,Cheese",2
+Chicken Bowl,"TomatilloGreenChiliSalsa,Rice,Cheese,Guacamole,Lettuce",2
+Chicken Bowl,"TomatilloGreenChiliSalsa,Rice,FajitaVegetables,BlackBeans,SourCream,Cheese,Lettuce",2
+Chicken Bowl,"TomatilloGreenChiliSalsa,SourCream,Cheese,Guacamole",2
+Chicken Bowl,"TomatilloGreenChiliSalsaMedium,BlackBeans",2
+Chicken Bowl,"TomatilloRedChiliSalsa,Rice,BlackBeans,Cheese,Lettuce,Guacamole",2
+Chicken Bowl,"TomatilloRedChiliSalsa,Rice,BlackBeans,PintoBeans,Cheese,SourCream,Lettuce",2
+Chicken Bowl,"TomatilloRedChiliSalsa,Rice,BlackBeans,SourCream,Cheese,Lettuce,Guacamole",2
+Chicken Bowl,"TomatilloRedChiliSalsa,Rice,Cheese,SourCream,Lettuce",2
+Chicken Bowl,"TomatilloRedChiliSalsaHot,PintoBeans,Rice,FajitaVeggies,Cheese,SourCream",2
+Chicken Bowl,"TomatilloRedChiliSalsaHot,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",2
+Chicken Bowl,WhiteRice,2
+Chicken Bowl,"FreshTomatoMild,Guacamole,Rice",1
+Chicken Bowl,"FreshTomatoMild,Lettuce,FajitaVeggies,BlackBeans,Rice,SourCream,Cheese",1
+Chicken Bowl,"FreshTomatoMild,Lettuce,FajitaVeggies,PintoBeans,Rice,SourCream,Cheese",1
+Chicken Bowl,"FreshTomatoMild,Rice,SourCream,Cheese",1
+Chicken Bowl,"FreshTomatoSalsa,BlackBeans,Cheese,Guacamole,Lettuce",1
+Chicken Bowl,"FreshTomatoSalsa,BlackBeans,Cheese,SourCream",1
+Chicken Bowl,"FreshTomatoSalsa,BlackBeans,Rice,SourCream,Cheese,Guacamole,Lettuce",1
+Chicken Bowl,"FreshTomatoSalsa,Cheese,BlackBeans,Rice",1
+Chicken Bowl,"FreshTomatoSalsa,Cheese,Guacamole,SourCream,FajitaVegetables,Rice",1
+Chicken Bowl,"FreshTomatoSalsa,Cheese,Rice,BlackBeans",1
+Chicken Bowl,"FreshTomatoSalsa,FajitaVegetables,BlackBeans,PintoBeans,Guacamole,Lettuce",1
+Chicken Bowl,"FreshTomatoSalsa,FajitaVegetables,PintoBeans,Guacamole,Lettuce",1
+Chicken Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,Guacamole",1
+Chicken Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,PintoBeans,Cheese,SourCream",1
+Chicken Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,PintoBeans,Cheese,SourCream,Guacamole",1
+Chicken Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,Cheese,Lettuce",1
+Chicken Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,PintoBeans,Cheese",1
+Chicken Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,PintoBeans,Cheese,SourCream,Lettuce",1
+Chicken Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,SourCream,Guacamole",1
+Chicken Bowl,"FreshTomatoSalsa,Guacamole,Cheese,Rice,SourCream,FajitaVegetables",1
+Chicken Bowl,"FreshTomatoSalsa,Guacamole,Lettuce",1
+Chicken Bowl,"FreshTomatoSalsa,Guacamole,Lettuce,Rice,Cheese,SourCream,BlackBeans",1
+Chicken Bowl,"FreshTomatoSalsa,Lettuce,Cheese,PintoBeans,Rice",1
+Chicken Bowl,"FreshTomatoSalsa,Lettuce,FajitaVegetables,Guacamole,Rice,BlackBeans",1
+Chicken Bowl,"FreshTomatoSalsa,PintoBeans,Cheese,Guacamole",1
+Chicken Bowl,"FreshTomatoSalsa,PintoBeans,Rice,Cheese,Lettuce,Guacamole,SourCream,FajitaVegetables",1
+Chicken Bowl,"FreshTomatoSalsa,PintoBeans,Rice,Lettuce,Cheese",1
+Chicken Bowl,"FreshTomatoSalsa,Rice",1
+Chicken Bowl,"FreshTomatoSalsa,Rice,BlackBeans",1
+Chicken Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,Guacamole",1
+Chicken Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,Lettuce,Guacamole",1
+Chicken Bowl,"FreshTomatoSalsa,Rice,BlackBeans,FajitaVegetables,Lettuce,Cheese,SourCream",1
+Chicken Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Lettuce,Guacamole",1
+Chicken Bowl,"FreshTomatoSalsa,Rice,BlackBeans,PintoBeans,Cheese",1
+Chicken Bowl,"FreshTomatoSalsa,Rice,BlackBeans,PintoBeans,Cheese,SourCream",1
+Chicken Bowl,"FreshTomatoSalsa,Rice,BlackBeans,PintoBeans,Cheese,SourCream,Guacamole",1
+Chicken Bowl,"FreshTomatoSalsa,Rice,BlackBeans,PintoBeans,Guacamole,Lettuce",1
+Chicken Bowl,"FreshTomatoSalsa,Rice,BlackBeans,SourCream,Cheese,Guacamole",1
+Chicken Bowl,"FreshTomatoSalsa,Rice,BlackBeans,SourCream,Cheese,Lettuce,Guacamole",1
+Chicken Bowl,"FreshTomatoSalsa,Rice,Cheese",1
+Chicken Bowl,"FreshTomatoSalsa,Rice,Cheese,BlackBeans",1
+Chicken Bowl,"FreshTomatoSalsa,Rice,Cheese,Guacamole,Lettuce",1
+Chicken Bowl,"FreshTomatoSalsa,Rice,Cheese,SourCream,Guacamole,FajitaVegetables",1
+Chicken Bowl,"FreshTomatoSalsa,Rice,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Bowl,"FreshTomatoSalsa,Rice,FajitaVegetables,BlackBeans",1
+Chicken Bowl,"FreshTomatoSalsa,Rice,FajitaVegetables,BlackBeans,Cheese,Lettuce",1
+Chicken Bowl,"FreshTomatoSalsa,Rice,FajitaVegetables,BlackBeans,SourCream,Cheese,Lettuce",1
+Chicken Bowl,"FreshTomatoSalsa,Rice,FajitaVegetables,BlackBeans,SourCream,Cheese,Lettuce,Guacamole",1
+Chicken Bowl,"FreshTomatoSalsa,Rice,FajitaVegetables,Cheese,Lettuce,Guacamole",1
+Chicken Bowl,"FreshTomatoSalsa,Rice,FajitaVegetables,PintoBeans,Cheese,Lettuce,Guacamole",1
+Chicken Bowl,"FreshTomatoSalsa,Rice,FajitaVegetables,PintoBeans,SourCream,Cheese,Lettuce,Guacamole",1
+Chicken Bowl,"FreshTomatoSalsa,Rice,Guacamole",1
+Chicken Bowl,"FreshTomatoSalsa,Rice,Guacamole,Lettuce",1
+Chicken Bowl,"FreshTomatoSalsa,Rice,PintoBeans,Cheese",1
+Chicken Bowl,"FreshTomatoSalsa,Rice,PintoBeans,Cheese,Guacamole,Lettuce",1
+Chicken Bowl,"FreshTomatoSalsa,Rice,PintoBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Bowl,"FreshTomatoSalsa,Rice,PintoBeans,SourCream,Cheese,Lettuce,Guacamole",1
+Chicken Bowl,"FreshTomatoSalsa,Rice,SourCream,Cheese,Lettuce",1
+Chicken Bowl,"FreshTomatoSalsa,Rice,SourCream,Guacamole",1
+Chicken Bowl,"FreshTomatoSalsa,SourCream,Cheese",1
+Chicken Bowl,"FreshTomatoSalsa,SourCream,Lettuce,Rice,Cheese",1
+Chicken Bowl,"FreshTomatoSalsaMild,BlackBeans,Rice,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Bowl,"FreshTomatoSalsaMild,BlackBeans,Rice,Cheese,SourCream,Lettuce",1
+Chicken Bowl,"FreshTomatoSalsaMild,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Bowl,"FreshTomatoSalsaMild,BlackBeans,Rice,FajitaVeggies,Guacamole,Lettuce",1
+Chicken Bowl,"FreshTomatoSalsaMild,Cheese",1
+Chicken Bowl,"FreshTomatoSalsaMild,Lettuce",1
+Chicken Bowl,"FreshTomatoSalsaMild,PintoBeans,Rice,Cheese,SourCream",1
+Chicken Bowl,"FreshTomatoSalsaMild,PintoBeans,Rice,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Bowl,"FreshTomatoSalsaMild,PintoBeans,Rice,Cheese,SourCream,Lettuce",1
+Chicken Bowl,"FreshTomatoSalsaMild,PintoBeans,Rice,FajitaVeggies,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Bowl,"FreshTomatoSalsaMild,PintoBeans,Rice,SourCream,Guacamole",1
+Chicken Bowl,"FreshTomatoSalsaMild,Rice,BlackBeans,SourCream,Guacamole",1
+Chicken Bowl,"FreshTomatoSalsaMild,Rice,Cheese,SourCream,Lettuce",1
+Chicken Bowl,"FreshTomatoSalsaMild,Rice,FajitaVeggies,Cheese,Lettuce",1
+Chicken Bowl,"FreshTomatoSalsaMild,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Chicken Bowl,"FreshTomatoSalsaMild,Rice,FajitaVeggies,SourCream,Guacamole",1
+Chicken Bowl,"FreshTomatoSalsaMild,Rice,PintoBeans,Cheese,Guacamole,Lettuce",1
+Chicken Bowl,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,BlackBeans,Cheese,Guacamole",1
+Chicken Bowl,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,BlackBeans,Guacamole",1
+Chicken Bowl,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Bowl,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Chicken Bowl,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,BlackBeans,Rice,FajitaVeggies,Lettuce",1
+Chicken Bowl,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,FajitaVeggies,Rice",1
+Chicken Bowl,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,Rice,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Bowl,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,Rice,SourCream,Guacamole,Lettuce",1
+Chicken Bowl,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,BlackBeans,Rice,Cheese,SourCream",1
+Chicken Bowl,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Chicken Bowl,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,PintoBeans,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Chicken Bowl,"FreshTomatoSalsaMild,TomatilloGreenChiliSalsaMedium,RoastedChiliCornSalsaMedium,BlackBeans,Rice,FajitaVeggies,Cheese,Guacamole,Lettuce",1
+Chicken Bowl,"FreshTomatoSalsaMild,TomatilloGreenChiliSalsaMedium,RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream",1
+Chicken Bowl,"FreshTomatoSalsaMild,TomatilloRedChiliSalsaHot,Guacamole,Rice,BlackBeans,Cheese,SourCream",1
+Chicken Bowl,"RoastedChiliCornSalsa,BlackBeans,Cheese,Guacamole",1
+Chicken Bowl,"RoastedChiliCornSalsa,BlackBeans,SourCream,Cheese,Guacamole",1
+Chicken Bowl,"RoastedChiliCornSalsa,Cheese,Lettuce",1
+Chicken Bowl,"RoastedChiliCornSalsa,Cheese,Lettuce,FajitaVegetables,Rice",1
+Chicken Bowl,"RoastedChiliCornSalsa,FajitaVegetables,BlackBeans,Guacamole",1
+Chicken Bowl,"RoastedChiliCornSalsa,FajitaVegetables,BlackBeans,PintoBeans,Cheese,Lettuce",1
+Chicken Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Cheese,Lettuce",1
+Chicken Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Lettuce,BlackBeans",1
+Chicken Bowl,"RoastedChiliCornSalsa,FajitaVegetables,PintoBeans,SourCream,Guacamole",1
+Chicken Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice",1
+Chicken Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Cheese",1
+Chicken Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,Guacamole",1
+Chicken Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,Guacamole,Lettuce",1
+Chicken Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,Lettuce",1
+Chicken Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream",1
+Chicken Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Guacamole,Lettuce",1
+Chicken Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Lettuce",1
+Chicken Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,PintoBeans,Cheese,Guacamole,Lettuce",1
+Chicken Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,PintoBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,SourCream,Lettuce",1
+Chicken Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,Cheese,SourCream",1
+Chicken Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,PintoBeans,Cheese,Guacamole,Lettuce",1
+Chicken Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,PintoBeans,Cheese,Lettuce",1
+Chicken Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,PintoBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,SourCream,Lettuce",1
+Chicken Bowl,"RoastedChiliCornSalsa,Rice,BlackBeans,Cheese,Guacamole,Lettuce",1
+Chicken Bowl,"RoastedChiliCornSalsa,Rice,BlackBeans,Cheese,Lettuce",1
+Chicken Bowl,"RoastedChiliCornSalsa,Rice,BlackBeans,Cheese,SourCream",1
+Chicken Bowl,"RoastedChiliCornSalsa,Rice,BlackBeans,Cheese,SourCream,Guacamole",1
+Chicken Bowl,"RoastedChiliCornSalsa,Rice,BlackBeans,Guacamole,Lettuce",1
+Chicken Bowl,"RoastedChiliCornSalsa,Rice,BlackBeans,SourCream",1
+Chicken Bowl,"RoastedChiliCornSalsa,Rice,BlackBeans,SourCream,Cheese,Lettuce,Guacamole",1
+Chicken Bowl,"RoastedChiliCornSalsa,Rice,Cheese",1
+Chicken Bowl,"RoastedChiliCornSalsa,Rice,Cheese,SourCream,Guacamole",1
+Chicken Bowl,"RoastedChiliCornSalsa,Rice,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Bowl,"RoastedChiliCornSalsa,Rice,FajitaVegetables,Lettuce,PintoBeans,BlackBeans,Guacamole,Cheese",1
+Chicken Bowl,"RoastedChiliCornSalsa,Rice,Lettuce",1
+Chicken Bowl,"RoastedChiliCornSalsa,Rice,PintoBeans,Cheese,SourCream,Guacamole",1
+Chicken Bowl,"RoastedChiliCornSalsa,Rice,PintoBeans,Lettuce,Guacamole",1
+Chicken Bowl,"RoastedChiliCornSalsaMedium,BlackBeans,FajitaVeggies,Cheese,Guacamole,Lettuce",1
+Chicken Bowl,"RoastedChiliCornSalsaMedium,BlackBeans,Rice,Cheese,Guacamole,Lettuce",1
+Chicken Bowl,"RoastedChiliCornSalsaMedium,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Bowl,"RoastedChiliCornSalsaMedium,BlackBeans,Rice,SourCream,Guacamole",1
+Chicken Bowl,"RoastedChiliCornSalsaMedium,Cheese",1
+Chicken Bowl,"RoastedChiliCornSalsaMedium,FreshTomatoSalsaMild,FajitaVeggies,Lettuce,Rice,BlackBeans",1
+Chicken Bowl,"RoastedChiliCornSalsaMedium,FreshTomatoSalsaMild,Rice,BlackBeans,FajitaVeggies,Cheese,SourCream,Guacamole",1
+Chicken Bowl,"RoastedChiliCornSalsaMedium,PintoBeans,BlackBeans,Rice,Cheese,SourCream,Guacamole",1
+Chicken Bowl,"RoastedChiliCornSalsaMedium,PintoBeans,BlackBeans,Rice,FajitaVeggies,Cheese,Lettuce",1
+Chicken Bowl,"RoastedChiliCornSalsaMedium,PintoBeans,Rice,Cheese,SourCream,Lettuce",1
+Chicken Bowl,"RoastedChiliCornSalsaMedium,PintoBeans,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Chicken Bowl,"RoastedChiliCornSalsaMedium,Rice,FajitaVeggies,Cheese",1
+Chicken Bowl,"RoastedChiliCornSalsaMedium,Rice,FajitaVeggies,SourCream",1
+Chicken Bowl,"RoastedChiliCornSalsaMedium,TomatilloGreenChiliSalsaMedium,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Chicken Bowl,"RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,FreshTomatoSalsaMild,TomatilloGreenChiliSalsaMedium,Rice,BlackBeans,FajitaVeggies,Cheese,SourCream",1
+Chicken Bowl,"RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,PintoBeans,Rice,FajitaVeggies",1
+Chicken Bowl,"RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,PintoBeans,Rice,FajitaVeggies,Cheese",1
+Chicken Bowl,"RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,PintoBeans,Rice,FajitaVeggies,Cheese,Lettuce",1
+Chicken Bowl,"TomatilloGreenChiliSalsa,FajitaVegetables,BlackBeans,SourCream,Lettuce",1
+Chicken Bowl,"TomatilloGreenChiliSalsa,FajitaVegetables,Rice",1
+Chicken Bowl,"TomatilloGreenChiliSalsa,FajitaVegetables,Rice,BlackBeans",1
+Chicken Bowl,"TomatilloGreenChiliSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Bowl,"TomatilloGreenChiliSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Lettuce",1
+Chicken Bowl,"TomatilloGreenChiliSalsa,FajitaVegetables,Rice,Cheese,Guacamole,Lettuce",1
+Chicken Bowl,"TomatilloGreenChiliSalsa,FajitaVegetables,Rice,Cheese,Lettuce",1
+Chicken Bowl,"TomatilloGreenChiliSalsa,FajitaVegetables,Rice,PintoBeans,Cheese,Guacamole,Lettuce",1
+Chicken Bowl,"TomatilloGreenChiliSalsa,FajitaVegetables,Rice,PintoBeans,Cheese,SourCream,Lettuce",1
+Chicken Bowl,"TomatilloGreenChiliSalsa,FajitaVegetables,Rice,SourCream,Guacamole",1
+Chicken Bowl,"TomatilloGreenChiliSalsa,Rice,BlackBeans",1
+Chicken Bowl,"TomatilloGreenChiliSalsa,Rice,BlackBeans,Cheese,Guacamole",1
+Chicken Bowl,"TomatilloGreenChiliSalsa,Rice,BlackBeans,Cheese,Lettuce",1
+Chicken Bowl,"TomatilloGreenChiliSalsa,Rice,BlackBeans,Cheese,SourCream,Lettuce",1
+Chicken Bowl,"TomatilloGreenChiliSalsa,Rice,BlackBeans,PintoBeans,Guacamole,Lettuce",1
+Chicken Bowl,"TomatilloGreenChiliSalsa,Rice,Cheese",1
+Chicken Bowl,"TomatilloGreenChiliSalsa,Rice,Cheese,Guacamole",1
+Chicken Bowl,"TomatilloGreenChiliSalsa,Rice,Cheese,Lettuce",1
+Chicken Bowl,"TomatilloGreenChiliSalsa,Rice,Cheese,SourCream,Guacamole",1
+Chicken Bowl,"TomatilloGreenChiliSalsa,Rice,PintoBeans,Cheese,Lettuce",1
+Chicken Bowl,"TomatilloGreenChiliSalsa,Rice,PintoBeans,Cheese,SourCream,Lettuce",1
+Chicken Bowl,"TomatilloGreenChiliSalsa,Rice,SourCream,Guacamole",1
+Chicken Bowl,"TomatilloGreenChiliSalsa,Rice,SourCream,Guacamole,Lettuce",1
+Chicken Bowl,"TomatilloGreenChiliSalsaMedium,BlackBeans,Rice,Cheese,SourCream",1
+Chicken Bowl,"TomatilloGreenChiliSalsaMedium,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Bowl,"TomatilloGreenChiliSalsaMedium,FajitaVeggies,Cheese,Guacamole,Lettuce",1
+Chicken Bowl,"TomatilloGreenChiliSalsaMedium,PintoBeans,BlackBeans,Rice,FajitaVeggies,SourCream,Lettuce",1
+Chicken Bowl,"TomatilloGreenChiliSalsaMedium,PintoBeans,Rice,FajitaVeggies,Lettuce",1
+Chicken Bowl,"TomatilloGreenChiliSalsaMedium,Rice,Cheese,SourCream,Lettuce",1
+Chicken Bowl,"TomatilloGreenChiliSalsaMedium,RoastedChiliCornSalsaMedium,BlackBeans,Rice,Cheese,SourCream,Lettuce",1
+Chicken Bowl,"TomatilloGreenChiliSalsaMedium,RoastedChiliCornSalsaMedium,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream,Guacamole",1
+Chicken Bowl,"TomatilloGreenChiliSalsaMedium,RoastedChiliCornSalsaMedium,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Chicken Bowl,"TomatilloGreenChiliSalsaMedium,RoastedChiliCornSalsaMedium,Rice,FajitaVeggies,Guacamole,Lettuce",1
+Chicken Bowl,"TomatilloGreenChiliSalsaMedium,TomatilloRedChiliSalsaHot,PintoBeans,Rice,FajitaVeggies,Cheese,SourCream,Guacamole",1
+Chicken Bowl,TomatilloRedChiliSalsa,1
+Chicken Bowl,"TomatilloRedChiliSalsa,BlackBeans,Cheese,SourCream",1
+Chicken Bowl,"TomatilloRedChiliSalsa,FajitaVegetables",1
+Chicken Bowl,"TomatilloRedChiliSalsa,FajitaVegetables,BlackBeans,SourCream,Cheese,Lettuce",1
+Chicken Bowl,"TomatilloRedChiliSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,Guacamole,Lettuce",1
+Chicken Bowl,"TomatilloRedChiliSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,Lettuce",1
+Chicken Bowl,"TomatilloRedChiliSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Lettuce",1
+Chicken Bowl,"TomatilloRedChiliSalsa,FajitaVegetables,Rice,Cheese,Guacamole",1
+Chicken Bowl,"TomatilloRedChiliSalsa,Rice",1
+Chicken Bowl,"TomatilloRedChiliSalsa,Rice,BlackBeans",1
+Chicken Bowl,"TomatilloRedChiliSalsa,Rice,BlackBeans,Cheese,Guacamole",1
+Chicken Bowl,"TomatilloRedChiliSalsa,Rice,BlackBeans,Cheese,Lettuce",1
+Chicken Bowl,"TomatilloRedChiliSalsa,Rice,BlackBeans,Cheese,SourCream",1
+Chicken Bowl,"TomatilloRedChiliSalsa,Rice,BlackBeans,PintoBeans,Cheese,SourCream",1
+Chicken Bowl,"TomatilloRedChiliSalsa,Rice,BlackBeans,SourCream,Guacamole,Lettuce",1
+Chicken Bowl,"TomatilloRedChiliSalsa,Rice,Cheese",1
+Chicken Bowl,"TomatilloRedChiliSalsa,Rice,Cheese,SourCream,Guacamole",1
+Chicken Bowl,"TomatilloRedChiliSalsa,Rice,FajitaVegetables,BlackBeans,Cheese,Lettuce,Guacamole",1
+Chicken Bowl,"TomatilloRedChiliSalsa,Rice,FajitaVegetables,BlackBeans,SourCream,Cheese",1
+Chicken Bowl,"TomatilloRedChiliSalsa,Rice,FajitaVegetables,SourCream,Lettuce",1
+Chicken Bowl,"TomatilloRedChiliSalsa,Rice,PintoBeans,Cheese,Lettuce",1
+Chicken Bowl,"TomatilloRedChiliSalsa,Rice,PintoBeans,Guacamole,Lettuce",1
+Chicken Bowl,"TomatilloRedChiliSalsa,Rice,SourCream,Cheese,Guacamole",1
+Chicken Bowl,"TomatilloRedChiliSalsa,SourCream,Cheese,Guacamole,Lettuce,BlackBeans,Rice",1
+Chicken Bowl,"TomatilloRedChiliSalsaHot,BlackBeans,Cheese,Lettuce",1
+Chicken Bowl,"TomatilloRedChiliSalsaHot,BlackBeans,Rice,Cheese,SourCream",1
+Chicken Bowl,"TomatilloRedChiliSalsaHot,BlackBeans,Rice,Cheese,SourCream,Lettuce",1
+Chicken Bowl,"TomatilloRedChiliSalsaHot,BlackBeans,Rice,FajitaVeggies,Cheese,Lettuce",1
+Chicken Bowl,"TomatilloRedChiliSalsaHot,Cheese,Lettuce,Rice,BlackBeans",1
+Chicken Bowl,"TomatilloRedChiliSalsaHot,Cheese,SourCream,FajitaVeggies,PintoBeans,Rice",1
+Chicken Bowl,"TomatilloRedChiliSalsaHot,PintoBeans,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Chicken Bowl,"TomatilloRedChiliSalsaHot,PintoBeans,Cheese,SourCream,Rice,FajitaVeggies,Guacamole",1
+Chicken Bowl,"TomatilloRedChiliSalsaHot,PintoBeans,Rice,Cheese,SourCream,Guacamole",1
+Chicken Bowl,"TomatilloRedChiliSalsaHot,PintoBeans,Rice,Cheese,SourCream,Lettuce",1
+Chicken Bowl,"TomatilloRedChiliSalsaHot,PintoBeans,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Chicken Bowl,"TomatilloRedChiliSalsaHot,Rice",1
+Chicken Bowl,"TomatilloRedChiliSalsaHot,Rice,FajitaVeggies,PintoBeans,SourCream,Cheese,Guacamole",1
+Chicken Bowl,"TomatilloRedChiliSalsaHot,Rice,FajitaVeggies,SourCream,Lettuce",1
+Chicken Bowl,"TomatilloRedChiliSalsaHot,Rice,PintoBeans,FajitaVeggies,Cheese,SourCream,Guacamole",1
+Chicken Bowl,"TomatilloRedChiliSalsaHot,SourCream,Cheese,FajitaVeggies,Guacamole,Rice,PintoBeans",1
+Chicken Bowl,"TomatilloRedChiliSalsaHot,TomatilloGreenChiliSalsaMedium,Rice,BlackBeans,Cheese,Lettuce",1
+Chicken Bowl,"TomatilloRedChiliSalsaHot,TomatilloGreenChiliSalsaMedium,Rice,BlackBeans,Lettuce",1
+Chicken Burrito,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,SourCream,Lettuce",16
+Chicken Burrito,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,SourCream",13
+Chicken Burrito,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",12
+Chicken Burrito,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,Lettuce",10
+Chicken Burrito,"FreshTomatoSalsa,Rice,Cheese,SourCream,Lettuce",10
+Chicken Burrito,"FreshTomatoSalsa,Rice",9
+Chicken Burrito,"TomatilloRedChiliSalsa,Rice,BlackBeans,Cheese",9
+Chicken Burrito,"FreshTomatoSalsa,Rice,Cheese,Lettuce",8
+Chicken Burrito,"FreshTomatoSalsaMild,BlackBeans,Rice,Cheese,SourCream,Lettuce",8
+Chicken Burrito,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,Guacamole,Lettuce",7
+Chicken Burrito,"TomatilloGreenChiliSalsaMedium,PintoBeans,Rice,Cheese,SourCream",7
+Chicken Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Lettuce",6
+Chicken Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice",5
+Chicken Burrito,"FreshTomatoSalsa,Rice,BlackBeans,Cheese",5
+Chicken Burrito,"FreshTomatoSalsa,Rice,Cheese,SourCream",5
+Chicken Burrito,"TomatilloRedChiliSalsa,Rice,Cheese,SourCream",5
+Chicken Burrito,"TomatilloRedChiliSalsa,Rice,PintoBeans,Cheese",5
+Chicken Burrito,"TomatilloRedChiliSalsa,Rice,PintoBeans,SourCream,Guacamole,Lettuce",5
+Chicken Burrito,"TomatilloRedChiliSalsaHot,BlackBeans,Rice,Cheese",5
+Chicken Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",4
+Chicken Burrito,"RoastedChiliCornSalsaMedium,BlackBeans,Rice,Cheese,SourCream",4
+Chicken Burrito,"RoastedChiliCornSalsaMedium,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",4
+Chicken Burrito,"TomatilloGreenChiliSalsa,Rice,PintoBeans,Cheese,Lettuce",4
+Chicken Burrito,"TomatilloRedChiliSalsaHot,BlackBeans,Rice,Cheese,SourCream,Guacamole",4
+Chicken Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese",3
+Chicken Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,SourCream,Lettuce",3
+Chicken Burrito,"FreshTomatoSalsa,Rice,BlackBeans",3
+Chicken Burrito,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,SourCream,Guacamole",3
+Chicken Burrito,"FreshTomatoSalsa,Rice,BlackBeans,SourCream,Cheese,Lettuce",3
+Chicken Burrito,"FreshTomatoSalsa,Rice,Cheese,SourCream,Guacamole",3
+Chicken Burrito,"FreshTomatoSalsa,Rice,PintoBeans,Cheese,SourCream",3
+Chicken Burrito,"FreshTomatoSalsa,Rice,PintoBeans,Cheese,SourCream,Lettuce",3
+Chicken Burrito,"FreshTomatoSalsa,Rice,SourCream,Cheese,Guacamole",3
+Chicken Burrito,"FreshTomatoSalsa,Rice,SourCream,Cheese,Lettuce,Guacamole",3
+Chicken Burrito,"FreshTomatoSalsaMild,BlackBeans,Rice,SourCream,Guacamole",3
+Chicken Burrito,"FreshTomatoSalsaMild,PintoBeans,Rice,Cheese,SourCream,Lettuce",3
+Chicken Burrito,"FreshTomatoSalsaMild,Rice,Cheese,SourCream,Lettuce",3
+Chicken Burrito,"RoastedChiliCornSalsa,FajitaVegetables,Rice,SourCream,Guacamole,Lettuce",3
+Chicken Burrito,"RoastedChiliCornSalsa,Rice,BlackBeans",3
+Chicken Burrito,"RoastedChiliCornSalsa,Rice,BlackBeans,Cheese",3
+Chicken Burrito,"RoastedChiliCornSalsa,Rice,BlackBeans,Cheese,Lettuce,Guacamole",3
+Chicken Burrito,"RoastedChiliCornSalsa,Rice,BlackBeans,Cheese,SourCream,Lettuce",3
+Chicken Burrito,"RoastedChiliCornSalsa,Rice,BlackBeans,SourCream,Cheese,Lettuce",3
+Chicken Burrito,"RoastedChiliCornSalsa,Rice,Cheese,SourCream,Lettuce",3
+Chicken Burrito,"RoastedChiliCornSalsaMedium,Rice,FajitaVeggies,Cheese",3
+Chicken Burrito,"TomatilloGreenChiliSalsa,Rice,BlackBeans,Cheese,SourCream",3
+Chicken Burrito,"TomatilloGreenChiliSalsa,Rice,BlackBeans,Cheese,SourCream,Lettuce",3
+Chicken Burrito,"TomatilloRedChiliSalsa,Rice,BlackBeans,Cheese,SourCream",3
+Chicken Burrito,"TomatilloRedChiliSalsa,Rice,Cheese,Lettuce",3
+Chicken Burrito,"TomatilloRedChiliSalsaHot,BlackBeans,Rice,Cheese,SourCream,Lettuce",3
+Chicken Burrito,FreshTomatoSalsa,2
+Chicken Burrito,"FreshTomatoSalsa,Cheese,SourCream,Lettuce",2
+Chicken Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,Lettuce",2
+Chicken Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,PintoBeans,Cheese,SourCream,Guacamole,Lettuce",2
+Chicken Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,PintoBeans,Cheese,Guacamole,Lettuce",2
+Chicken Burrito,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,Guacamole",2
+Chicken Burrito,"FreshTomatoSalsa,Rice,BlackBeans,SourCream",2
+Chicken Burrito,"FreshTomatoSalsa,Rice,BlackBeans,SourCream,Lettuce",2
+Chicken Burrito,"FreshTomatoSalsa,Rice,Cheese,SourCream,Guacamole,Lettuce",2
+Chicken Burrito,"FreshTomatoSalsa,Rice,FajitaVegetables,SourCream,Cheese,Guacamole",2
+Chicken Burrito,"FreshTomatoSalsa,Rice,Guacamole,Cheese,SourCream",2
+Chicken Burrito,"FreshTomatoSalsa,Rice,PintoBeans,Cheese,Guacamole,Lettuce",2
+Chicken Burrito,"FreshTomatoSalsa,Rice,PintoBeans,Cheese,SourCream,Guacamole,Lettuce",2
+Chicken Burrito,"FreshTomatoSalsaMild,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",2
+Chicken Burrito,"FreshTomatoSalsaMild,Cheese,Lettuce",2
+Chicken Burrito,"FreshTomatoSalsaMild,Rice,Cheese,Lettuce",2
+Chicken Burrito,"FreshTomatoSalsaMild,Rice,FajitaVeggies,Cheese,SourCream,Guacamole,Lettuce",2
+Chicken Burrito,"FreshTomatoSalsaMild,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",2
+Chicken Burrito,"FreshTomatoSalsaMild,Rice,FajitaVeggies,Lettuce",2
+Chicken Burrito,"Rice,Cheese",2
+Chicken Burrito,"RoastedChiliCornSalsa,FajitaVegetables,Rice",2
+Chicken Burrito,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",2
+Chicken Burrito,"RoastedChiliCornSalsa,FajitaVegetables,Rice,PintoBeans,Cheese,SourCream,Lettuce",2
+Chicken Burrito,"RoastedChiliCornSalsa,Guacamole,Lettuce,Rice,FajitaVegetables,SourCream",2
+Chicken Burrito,"RoastedChiliCornSalsa,Rice,BlackBeans,Guacamole",2
+Chicken Burrito,"RoastedChiliCornSalsa,Rice,PintoBeans,Cheese,SourCream,Guacamole",2
+Chicken Burrito,"RoastedChiliCornSalsa,Rice,SourCream,Cheese,Guacamole",2
+Chicken Burrito,"RoastedChiliCornSalsaMedium,BlackBeans,Rice,Cheese,SourCream,Lettuce",2
+Chicken Burrito,"RoastedChiliCornSalsaMedium,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream,Guacamole,Lettuce",2
+Chicken Burrito,"RoastedChiliCornSalsaMedium,Rice,Cheese,Lettuce",2
+Chicken Burrito,"TomatilloGreenChiliSalsa,Rice,BlackBeans,Cheese",2
+Chicken Burrito,"TomatilloGreenChiliSalsa,Rice,PintoBeans,Cheese,SourCream,Guacamole,Lettuce",2
+Chicken Burrito,"TomatilloGreenChiliSalsa,Rice,PintoBeans,SourCream,Cheese,Lettuce",2
+Chicken Burrito,"TomatilloGreenChiliSalsaMedium,Rice,Cheese,Guacamole",2
+Chicken Burrito,"TomatilloRedChiliSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",2
+Chicken Burrito,"TomatilloRedChiliSalsa,Guacamole,Cheese",2
+Chicken Burrito,"TomatilloRedChiliSalsa,Rice,BlackBeans,Cheese,Guacamole,Lettuce",2
+Chicken Burrito,"TomatilloRedChiliSalsa,Rice,BlackBeans,Cheese,Lettuce",2
+Chicken Burrito,"TomatilloRedChiliSalsa,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",2
+Chicken Burrito,"TomatilloRedChiliSalsa,Rice,BlackBeans,Cheese,SourCream,Lettuce",2
+Chicken Burrito,"TomatilloRedChiliSalsa,Rice,BlackBeans,SourCream,Cheese,Lettuce",2
+Chicken Burrito,"TomatilloRedChiliSalsa,Rice,BlackBeans,SourCream,Cheese,Lettuce,Guacamole",2
+Chicken Burrito,"TomatilloRedChiliSalsa,Rice,Cheese",2
+Chicken Burrito,"TomatilloRedChiliSalsaHot,BlackBeans,FajitaVeggies,Cheese,SourCream,Guacamole,Lettuce",2
+Chicken Burrito,"TomatilloRedChiliSalsaHot,BlackBeans,Rice,Cheese,SourCream,Guacamole,Lettuce",2
+Chicken Burrito,"FreshTomatoMild,BlackBeans,Rice,SourCream,Cheese",1
+Chicken Burrito,"FreshTomatoMild,Guacamole,Lettuce,Rice,FajitaVeggies,Cheese",1
+Chicken Burrito,"FreshTomatoMild,Guacamole,Lettuce,Rice,FajitaVeggies,SourCream,Cheese",1
+Chicken Burrito,"FreshTomatoMild,Guacamole,Rice,FajitaVeggies,SourCream,Cheese",1
+Chicken Burrito,"FreshTomatoMild,Guacamole,Rice,SourCream,Cheese",1
+Chicken Burrito,"FreshTomatoMild,Lettuce,Rice,FajitaVeggies,SourCream,Cheese",1
+Chicken Burrito,"FreshTomatoSalsa,BlackBeans,Cheese,Guacamole,Lettuce",1
+Chicken Burrito,"FreshTomatoSalsa,BlackBeans,Cheese,SourCream",1
+Chicken Burrito,"FreshTomatoSalsa,BlackBeans,PintoBeans,Cheese,Guacamole,Lettuce",1
+Chicken Burrito,"FreshTomatoSalsa,Cheese",1
+Chicken Burrito,"FreshTomatoSalsa,Cheese,Lettuce",1
+Chicken Burrito,"FreshTomatoSalsa,Cheese,Rice,BlackBeans,Lettuce",1
+Chicken Burrito,"FreshTomatoSalsa,Cheese,SourCream",1
+Chicken Burrito,"FreshTomatoSalsa,FajitaVegetables,Cheese,Lettuce",1
+Chicken Burrito,"FreshTomatoSalsa,FajitaVegetables,PintoBeans,Cheese,Guacamole",1
+Chicken Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,PintoBeans,Cheese,Lettuce",1
+Chicken Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,PintoBeans,Guacamole,Lettuce",1
+Chicken Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,Cheese,Guacamole",1
+Chicken Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,Cheese,SourCream",1
+Chicken Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,Cheese,SourCream,Lettuce",1
+Chicken Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,PintoBeans,Cheese,SourCream",1
+Chicken Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,PintoBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Burrito,"FreshTomatoSalsa,FajitaVegetables,SourCream,Cheese,Guacamole",1
+Chicken Burrito,"FreshTomatoSalsa,Guacamole,Cheese,Rice,SourCream,FajitaVegetables,Lettuce",1
+Chicken Burrito,"FreshTomatoSalsa,Guacamole,Lettuce,SourCream,FajitaVegetables,Cheese,Rice",1
+Chicken Burrito,"FreshTomatoSalsa,Lettuce,Guacamole,Rice,Cheese,FajitaVegetables,SourCream",1
+Chicken Burrito,"FreshTomatoSalsa,Lettuce,Rice,BlackBeans,Cheese",1
+Chicken Burrito,"FreshTomatoSalsa,PintoBeans,Cheese,SourCream",1
+Chicken Burrito,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,Lettuce,Guacamole",1
+Chicken Burrito,"FreshTomatoSalsa,Rice,BlackBeans,Lettuce,Cheese",1
+Chicken Burrito,"FreshTomatoSalsa,Rice,BlackBeans,PintoBeans,Cheese,Guacamole,Lettuce",1
+Chicken Burrito,"FreshTomatoSalsa,Rice,BlackBeans,SourCream,Cheese,Guacamole",1
+Chicken Burrito,"FreshTomatoSalsa,Rice,BlackBeans,SourCream,Cheese,Lettuce,Guacamole",1
+Chicken Burrito,"FreshTomatoSalsa,Rice,Cheese",1
+Chicken Burrito,"FreshTomatoSalsa,Rice,Cheese,Guacamole,Lettuce",1
+Chicken Burrito,"FreshTomatoSalsa,Rice,FajitaVegetables",1
+Chicken Burrito,"FreshTomatoSalsa,Rice,FajitaVegetables,SourCream,Cheese,Lettuce",1
+Chicken Burrito,"FreshTomatoSalsa,Rice,PintoBeans,Cheese",1
+Chicken Burrito,"FreshTomatoSalsa,Rice,PintoBeans,Cheese,SourCream,Guacamole",1
+Chicken Burrito,"FreshTomatoSalsa,Rice,PintoBeans,Lettuce",1
+Chicken Burrito,"FreshTomatoSalsa,Rice,SourCream,Cheese",1
+Chicken Burrito,"FreshTomatoSalsa,Rice,SourCream,Cheese,Lettuce",1
+Chicken Burrito,"FreshTomatoSalsa,Rice,SourCream,Guacamole",1
+Chicken Burrito,"FreshTomatoSalsa,SourCream,Cheese,Guacamole,Rice",1
+Chicken Burrito,"FreshTomatoSalsa,SourCream,Cheese,Lettuce,Guacamole",1
+Chicken Burrito,"FreshTomatoSalsa,SourCream,Cheese,PintoBeans,Rice",1
+Chicken Burrito,"FreshTomatoSalsa,SourCream,Cheese,Rice,BlackBeans",1
+Chicken Burrito,"FreshTomatoSalsaMild,BlackBeans,Rice,Cheese",1
+Chicken Burrito,"FreshTomatoSalsaMild,BlackBeans,Rice,Cheese,SourCream",1
+Chicken Burrito,"FreshTomatoSalsaMild,BlackBeans,Rice,Cheese,SourCream,Guacamole",1
+Chicken Burrito,"FreshTomatoSalsaMild,BlackBeans,Rice,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Burrito,"FreshTomatoSalsaMild,BlackBeans,Rice,FajitaVeggies,Cheese",1
+Chicken Burrito,"FreshTomatoSalsaMild,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Chicken Burrito,"FreshTomatoSalsaMild,FajitaVeggies,Guacamole,Lettuce",1
+Chicken Burrito,"FreshTomatoSalsaMild,PintoBeans,Cheese,SourCream,Lettuce",1
+Chicken Burrito,"FreshTomatoSalsaMild,PintoBeans,Rice,FajitaVeggies,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Burrito,"FreshTomatoSalsaMild,PintoBeans,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Chicken Burrito,"FreshTomatoSalsaMild,PintoBeans,Rice,SourCream",1
+Chicken Burrito,"FreshTomatoSalsaMild,Rice,BlackBeans,FajitaVeggies,Cheese,Guacamole,Lettuce",1
+Chicken Burrito,"FreshTomatoSalsaMild,Rice,FajitaVeggies,Cheese,Lettuce",1
+Chicken Burrito,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Chicken Burrito,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,PintoBeans,BlackBeans,Rice,FajitaVeggies,Cheese,Lettuce",1
+Chicken Burrito,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,PintoBeans,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Chicken Burrito,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,PintoBeans,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Chicken Burrito,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,Rice,FajitaVeggies,Cheese,Lettuce",1
+Chicken Burrito,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,BlackBeans,Rice,FajitaVeggies,Lettuce",1
+Chicken Burrito,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,PintoBeans,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Chicken Burrito,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,Rice,FajitaVeggies,Cheese,Lettuce",1
+Chicken Burrito,"FreshTomatoSalsaMild,TomatilloGreenChiliSalsaMedium,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream",1
+Chicken Burrito,"FreshTomatoSalsaMild,TomatilloGreenChiliSalsaMedium,RoastedChiliCornSalsaMedium,PintoBeans,Rice,FajitaVeggies,Cheese,Lettuce",1
+Chicken Burrito,"FreshTomatoSalsaMild,TomatilloGreenChiliSalsaMedium,TomatilloRedChiliSalsaHot,PintoBeans,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Chicken Burrito,"FreshTomatoSalsaMild,TomatilloRedChiliSalsaHot,Rice,FajitaVeggies,Cheese,Lettuce",1
+Chicken Burrito,"FreshTomatoSalsaMild,TomatilloRedChiliSalsaHot,Rice,FajitaVeggies,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Burrito,"Lettuce,FajitaVeggies,Rice",1
+Chicken Burrito,"Lettuce,Rice",1
+Chicken Burrito,"Lettuce,Rice,FajitaVeggies",1
+Chicken Burrito,Rice,1
+Chicken Burrito,"RoastedChiliCornMedium,Lettuce,BlackBeans,Rice,SourCream,Cheese",1
+Chicken Burrito,RoastedChiliCornSalsa,1
+Chicken Burrito,"RoastedChiliCornSalsa,FajitaVegetables",1
+Chicken Burrito,"RoastedChiliCornSalsa,FajitaVegetables,PintoBeans,SourCream,Cheese",1
+Chicken Burrito,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Cheese",1
+Chicken Burrito,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream",1
+Chicken Burrito,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Guacamole",1
+Chicken Burrito,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Lettuce",1
+Chicken Burrito,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Guacamole",1
+Chicken Burrito,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,PintoBeans,Cheese,Lettuce",1
+Chicken Burrito,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,PintoBeans,Cheese,SourCream,Lettuce",1
+Chicken Burrito,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,PintoBeans,Guacamole,Lettuce",1
+Chicken Burrito,"RoastedChiliCornSalsa,FajitaVegetables,Rice,Cheese,Lettuce",1
+Chicken Burrito,"RoastedChiliCornSalsa,FajitaVegetables,Rice,PintoBeans,Guacamole,Lettuce",1
+Chicken Burrito,"RoastedChiliCornSalsa,FajitaVegetables,Rice,SourCream,Guacamole",1
+Chicken Burrito,"RoastedChiliCornSalsa,Guacamole,SourCream,Rice,FajitaVegetables,Lettuce",1
+Chicken Burrito,"RoastedChiliCornSalsa,PintoBeans,Cheese,SourCream",1
+Chicken Burrito,"RoastedChiliCornSalsa,Rice,BlackBeans,Cheese,Lettuce",1
+Chicken Burrito,"RoastedChiliCornSalsa,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Burrito,"RoastedChiliCornSalsa,Rice,BlackBeans,Lettuce",1
+Chicken Burrito,"RoastedChiliCornSalsa,Rice,BlackBeans,SourCream,Lettuce",1
+Chicken Burrito,"RoastedChiliCornSalsa,Rice,FajitaVegetables",1
+Chicken Burrito,"RoastedChiliCornSalsa,Rice,FajitaVegetables,BlackBeans,Cheese,Lettuce,Guacamole",1
+Chicken Burrito,"RoastedChiliCornSalsa,Rice,FajitaVegetables,BlackBeans,SourCream,Cheese,Lettuce",1
+Chicken Burrito,"RoastedChiliCornSalsa,Rice,FajitaVegetables,BlackBeans,SourCream,Cheese,Lettuce,Guacamole",1
+Chicken Burrito,"RoastedChiliCornSalsa,Rice,FajitaVegetables,Cheese",1
+Chicken Burrito,"RoastedChiliCornSalsa,Rice,FajitaVegetables,SourCream,Cheese,Lettuce",1
+Chicken Burrito,"RoastedChiliCornSalsa,Rice,PintoBeans,Cheese",1
+Chicken Burrito,"RoastedChiliCornSalsa,Rice,PintoBeans,Cheese,Lettuce",1
+Chicken Burrito,"RoastedChiliCornSalsa,Rice,PintoBeans,Cheese,SourCream",1
+Chicken Burrito,"RoastedChiliCornSalsa,Rice,PintoBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Burrito,"RoastedChiliCornSalsa,Rice,PintoBeans,Cheese,SourCream,Lettuce",1
+Chicken Burrito,"RoastedChiliCornSalsa,Rice,PintoBeans,SourCream,Cheese,Guacamole",1
+Chicken Burrito,"RoastedChiliCornSalsaMedium,BlackBeans,FajitaVeggies,Cheese,SourCream,Guacamole",1
+Chicken Burrito,"RoastedChiliCornSalsaMedium,BlackBeans,Rice,Cheese,Guacamole,Lettuce",1
+Chicken Burrito,"RoastedChiliCornSalsaMedium,FreshTomatoSalsaMild,Rice,BlackBeans,FajitaVeggies,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Burrito,"RoastedChiliCornSalsaMedium,PintoBeans,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Chicken Burrito,"RoastedChiliCornSalsaMedium,PintoBeans,Rice,Cheese,SourCream,Lettuce",1
+Chicken Burrito,"RoastedChiliCornSalsaMedium,PintoBeans,Rice,FajitaVeggies,SourCream,Lettuce",1
+Chicken Burrito,"RoastedChiliCornSalsaMedium,Rice,BlackBeans,SourCream,Guacamole",1
+Chicken Burrito,"RoastedChiliCornSalsaMedium,Rice,Cheese,SourCream",1
+Chicken Burrito,"RoastedChiliCornSalsaMedium,Rice,Cheese,SourCream,Lettuce",1
+Chicken Burrito,"RoastedChiliCornSalsaMedium,Rice,FajitaVeggies,Cheese,SourCream",1
+Chicken Burrito,"RoastedChiliCornSalsaMedium,Rice,FajitaVeggies,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Burrito,"RoastedChiliCornSalsaMedium,SourCream,Cheese,BlackBeans,Rice",1
+Chicken Burrito,"RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,BlackBeans,Rice,Cheese,SourCream,Lettuce",1
+Chicken Burrito,"RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,BlackBeans,Rice,FajitaVeggies,Cheese,Guacamole,Lettuce",1
+Chicken Burrito,"RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Burrito,"RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,Cheese,Lettuce",1
+Chicken Burrito,"TomatilloGreenChiliMedium,Lettuce,BlackBeans,Rice,SourCream,Cheese",1
+Chicken Burrito,"TomatilloGreenChiliSalsa,BlackBeans,Cheese,Guacamole,Lettuce",1
+Chicken Burrito,"TomatilloGreenChiliSalsa,Cheese,Lettuce,PintoBeans,Rice",1
+Chicken Burrito,"TomatilloGreenChiliSalsa,Cheese,Lettuce,Rice,PintoBeans",1
+Chicken Burrito,"TomatilloGreenChiliSalsa,FajitaVegetables,BlackBeans,SourCream,Cheese",1
+Chicken Burrito,"TomatilloGreenChiliSalsa,FajitaVegetables,Cheese,SourCream,Lettuce",1
+Chicken Burrito,"TomatilloGreenChiliSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Burrito,"TomatilloGreenChiliSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Lettuce",1
+Chicken Burrito,"TomatilloGreenChiliSalsa,FajitaVegetables,Rice,BlackBeans,PintoBeans,Cheese",1
+Chicken Burrito,"TomatilloGreenChiliSalsa,FajitaVegetables,Rice,BlackBeans,PintoBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Burrito,"TomatilloGreenChiliSalsa,FajitaVegetables,Rice,Cheese,SourCream,Lettuce",1
+Chicken Burrito,"TomatilloGreenChiliSalsa,FajitaVegetables,SourCream",1
+Chicken Burrito,"TomatilloGreenChiliSalsa,Guacamole",1
+Chicken Burrito,"TomatilloGreenChiliSalsa,Rice,BlackBeans,Cheese,Guacamole",1
+Chicken Burrito,"TomatilloGreenChiliSalsa,Rice,BlackBeans,Cheese,Lettuce",1
+Chicken Burrito,"TomatilloGreenChiliSalsa,Rice,BlackBeans,Cheese,SourCream,Guacamole",1
+Chicken Burrito,"TomatilloGreenChiliSalsa,Rice,BlackBeans,PintoBeans,Cheese,Guacamole,Lettuce",1
+Chicken Burrito,"TomatilloGreenChiliSalsa,Rice,BlackBeans,SourCream,Cheese",1
+Chicken Burrito,"TomatilloGreenChiliSalsa,Rice,BlackBeans,SourCream,Cheese,Guacamole",1
+Chicken Burrito,"TomatilloGreenChiliSalsa,Rice,Cheese,Lettuce",1
+Chicken Burrito,"TomatilloGreenChiliSalsa,Rice,Cheese,SourCream,Lettuce",1
+Chicken Burrito,"TomatilloGreenChiliSalsa,Rice,FajitaVegetables,SourCream",1
+Chicken Burrito,"TomatilloGreenChiliSalsa,Rice,FajitaVegetables,SourCream,Cheese,Lettuce",1
+Chicken Burrito,"TomatilloGreenChiliSalsa,Rice,PintoBeans,BlackBeans,SourCream,Cheese,Lettuce",1
+Chicken Burrito,"TomatilloGreenChiliSalsa,Rice,SourCream,Cheese,Lettuce",1
+Chicken Burrito,"TomatilloGreenChiliSalsaMedium,BlackBeans,Rice,Cheese,Lettuce",1
+Chicken Burrito,"TomatilloGreenChiliSalsaMedium,BlackBeans,Rice,Cheese,SourCream,Guacamole",1
+Chicken Burrito,"TomatilloGreenChiliSalsaMedium,BlackBeans,Rice,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Burrito,"TomatilloGreenChiliSalsaMedium,BlackBeans,Rice,Cheese,SourCream,Lettuce",1
+Chicken Burrito,"TomatilloGreenChiliSalsaMedium,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Chicken Burrito,"TomatilloGreenChiliSalsaMedium,BlackBeans,Rice,FajitaVeggies,SourCream",1
+Chicken Burrito,"TomatilloGreenChiliSalsaMedium,Cheese,Lettuce",1
+Chicken Burrito,"TomatilloGreenChiliSalsaMedium,Lettuce",1
+Chicken Burrito,"TomatilloGreenChiliSalsaMedium,PintoBeans,Cheese,SourCream",1
+Chicken Burrito,"TomatilloGreenChiliSalsaMedium,PintoBeans,Rice,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Burrito,"TomatilloGreenChiliSalsaMedium,PintoBeans,Rice,FajitaVeggies,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Burrito,"TomatilloGreenChiliSalsaMedium,PintoBeans,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Chicken Burrito,"TomatilloGreenChiliSalsaMedium,Rice,Cheese,SourCream,Guacamole",1
+Chicken Burrito,"TomatilloGreenChiliSalsaMedium,Rice,FajitaVeggies,Cheese,SourCream",1
+Chicken Burrito,"TomatilloGreenChiliSalsaMedium,Rice,FajitaVeggies,Lettuce",1
+Chicken Burrito,"TomatilloGreenChiliSalsaMedium,RoastedChiliCornSalsaMedium,BlackBeans,Rice,Cheese",1
+Chicken Burrito,"TomatilloGreenChiliSalsaMedium,RoastedChiliCornSalsaMedium,PintoBeans,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Burrito,"TomatilloGreenChiliSalsaMedium,RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,PintoBeans,Rice,FajitaVeggies,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Burrito,"TomatilloGreenChiliSalsaMedium,TomatilloRedChiliSalsaHot,BlackBeans,Rice,Cheese,SourCream,Guacamole",1
+Chicken Burrito,"TomatilloGreenChiliSalsaMedium,TomatilloRedChiliSalsaHot,PintoBeans,Rice,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Burrito,"TomatilloRedChiliHot,Lettuce,Rice,Cheese",1
+Chicken Burrito,TomatilloRedChiliSalsa,1
+Chicken Burrito,"TomatilloRedChiliSalsa,BlackBeans,Cheese,SourCream",1
+Chicken Burrito,"TomatilloRedChiliSalsa,BlackBeans,Lettuce",1
+Chicken Burrito,"TomatilloRedChiliSalsa,Cheese,BlackBeans,Rice",1
+Chicken Burrito,"TomatilloRedChiliSalsa,Cheese,Guacamole",1
+Chicken Burrito,"TomatilloRedChiliSalsa,Cheese,Rice,BlackBeans",1
+Chicken Burrito,"TomatilloRedChiliSalsa,FajitaVegetables,Rice,BlackBeans,Guacamole",1
+Chicken Burrito,"TomatilloRedChiliSalsa,FajitaVegetables,Rice,BlackBeans,PintoBeans,Cheese,SourCream,Lettuce",1
+Chicken Burrito,"TomatilloRedChiliSalsa,FajitaVegetables,Rice,BlackBeans,SourCream,Guacamole",1
+Chicken Burrito,"TomatilloRedChiliSalsa,FajitaVegetables,Rice,BlackBeans,SourCream,Guacamole,Lettuce",1
+Chicken Burrito,"TomatilloRedChiliSalsa,FajitaVegetables,Rice,Cheese",1
+Chicken Burrito,"TomatilloRedChiliSalsa,FajitaVegetables,Rice,PintoBeans,Guacamole,Lettuce",1
+Chicken Burrito,"TomatilloRedChiliSalsa,Lettuce",1
+Chicken Burrito,"TomatilloRedChiliSalsa,Rice",1
+Chicken Burrito,"TomatilloRedChiliSalsa,Rice,BlackBeans,Lettuce",1
+Chicken Burrito,"TomatilloRedChiliSalsa,Rice,BlackBeans,PintoBeans,Cheese,SourCream,Lettuce",1
+Chicken Burrito,"TomatilloRedChiliSalsa,Rice,Cheese,Guacamole,Lettuce",1
+Chicken Burrito,"TomatilloRedChiliSalsa,Rice,Cheese,SourCream,Lettuce",1
+Chicken Burrito,"TomatilloRedChiliSalsa,Rice,FajitaVegetables,BlackBeans,Cheese,Lettuce,Guacamole",1
+Chicken Burrito,"TomatilloRedChiliSalsa,Rice,FajitaVegetables,BlackBeans,Lettuce",1
+Chicken Burrito,"TomatilloRedChiliSalsa,Rice,FajitaVegetables,BlackBeans,SourCream,Cheese,Lettuce,Guacamole",1
+Chicken Burrito,"TomatilloRedChiliSalsa,Rice,PintoBeans,Cheese,Lettuce",1
+Chicken Burrito,"TomatilloRedChiliSalsa,Rice,SourCream",1
+Chicken Burrito,"TomatilloRedChiliSalsa,SourCream,Cheese,Rice",1
+Chicken Burrito,"TomatilloRedChiliSalsaHot,BlackBeans,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Chicken Burrito,"TomatilloRedChiliSalsaHot,BlackBeans,Rice",1
+Chicken Burrito,"TomatilloRedChiliSalsaHot,BlackBeans,Rice,Cheese,Lettuce",1
+Chicken Burrito,"TomatilloRedChiliSalsaHot,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream",1
+Chicken Burrito,"TomatilloRedChiliSalsaHot,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Chicken Burrito,"TomatilloRedChiliSalsaHot,FreshTomatoSalsaMild,Rice,BlackBeans,Cheese,Lettuce",1
+Chicken Burrito,"TomatilloRedChiliSalsaHot,Lettuce,Guacamole,SourCream,Cheese,Rice,BlackBeans",1
+Chicken Burrito,"TomatilloRedChiliSalsaHot,PintoBeans,Rice,Cheese,Guacamole",1
+Chicken Burrito,"TomatilloRedChiliSalsaHot,PintoBeans,Rice,Cheese,SourCream,Guacamole",1
+Chicken Burrito,"TomatilloRedChiliSalsaHot,PintoBeans,Rice,FajitaVeggies,Cheese,Lettuce",1
+Chicken Burrito,"TomatilloRedChiliSalsaHot,PintoBeans,Rice,FajitaVeggies,Cheese,SourCream",1
+Chicken Burrito,"TomatilloRedChiliSalsaHot,Rice,BlackBeans,Cheese,Lettuce",1
+Chicken Burrito,"TomatilloRedChiliSalsaHot,Rice,BlackBeans,FajitaVeggies,Guacamole",1
+Chicken Burrito,"TomatilloRedChiliSalsaHot,Rice,Cheese,SourCream,Guacamole",1
+Chicken Burrito,"TomatilloRedChiliSalsaHot,Rice,FajitaVeggies,Cheese,SourCream",1
+Chicken Burrito,"TomatilloRedChiliSalsaHot,Rice,Guacamole",1
+Chicken Burrito,"TomatilloRedChiliSalsaHot,TomatilloGreenChiliSalsaMedium,Rice,BlackBeans,Cheese,Lettuce",1
+Chicken Burrito,"TomatilloRedChiliSalsaHot,TomatilloGreenChiliSalsaMedium,Rice,PintoBeans,Cheese,Lettuce",1
+Chicken Crispy Tacos,"RoastedChiliCornSalsa,FajitaVegetables,SourCream,Cheese,Lettuce,Guacamole",2
+Chicken Crispy Tacos,"RoastedChiliCornSalsa,Rice,Cheese,Guacamole",2
+Chicken Crispy Tacos,"RoastedChiliCornSalsaMedium,Cheese,SourCream,Lettuce",2
+Chicken Crispy Tacos,"TomatilloRedChiliSalsa,FajitaVegetables,BlackBeans,Cheese,Guacamole,Lettuce",2
+Chicken Crispy Tacos,"FreshTomatoSalsa,BlackBeans,Cheese,SourCream,Lettuce",1
+Chicken Crispy Tacos,"FreshTomatoSalsa,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Crispy Tacos,"FreshTomatoSalsa,FajitaVegetables",1
+Chicken Crispy Tacos,"FreshTomatoSalsa,FajitaVegetables,BlackBeans,Cheese,Guacamole,Lettuce",1
+Chicken Crispy Tacos,"FreshTomatoSalsa,FajitaVegetables,Cheese,SourCream,Guacamole",1
+Chicken Crispy Tacos,"FreshTomatoSalsa,FajitaVegetables,Cheese,SourCream,Lettuce",1
+Chicken Crispy Tacos,"FreshTomatoSalsa,FajitaVegetables,Lettuce",1
+Chicken Crispy Tacos,"FreshTomatoSalsa,FajitaVegetables,Rice,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Crispy Tacos,"FreshTomatoSalsa,Lettuce",1
+Chicken Crispy Tacos,"FreshTomatoSalsa,Rice",1
+Chicken Crispy Tacos,"FreshTomatoSalsa,Rice,BlackBeans,Cheese",1
+Chicken Crispy Tacos,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,Lettuce",1
+Chicken Crispy Tacos,"FreshTomatoSalsa,Rice,Cheese,Lettuce",1
+Chicken Crispy Tacos,"FreshTomatoSalsa,Rice,Cheese,SourCream,Lettuce",1
+Chicken Crispy Tacos,"FreshTomatoSalsa,Rice,FajitaVegetables,Cheese",1
+Chicken Crispy Tacos,"FreshTomatoSalsaMild,FajitaVeggies",1
+Chicken Crispy Tacos,"FreshTomatoSalsaMild,FajitaVeggies,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Crispy Tacos,"FreshTomatoSalsaMild,PintoBeans,Cheese,SourCream,Lettuce",1
+Chicken Crispy Tacos,"FreshTomatoSalsaMild,PintoBeans,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Chicken Crispy Tacos,"FreshTomatoSalsaMild,Rice,Cheese,Lettuce",1
+Chicken Crispy Tacos,"FreshTomatoSalsaMild,Rice,Cheese,SourCream,Lettuce",1
+Chicken Crispy Tacos,"RoastedChiliCornSalsa,Cheese,SourCream",1
+Chicken Crispy Tacos,"RoastedChiliCornSalsa,Cheese,SourCream,Lettuce",1
+Chicken Crispy Tacos,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,Lettuce",1
+Chicken Crispy Tacos,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream",1
+Chicken Crispy Tacos,"RoastedChiliCornSalsa,Rice,BlackBeans,Lettuce",1
+Chicken Crispy Tacos,"RoastedChiliCornSalsa,Rice,PintoBeans,Cheese,SourCream,Lettuce",1
+Chicken Crispy Tacos,"RoastedChiliCornSalsa,Rice,SourCream,Cheese,Guacamole",1
+Chicken Crispy Tacos,"RoastedChiliCornSalsa,SourCream,Cheese,Lettuce,Guacamole",1
+Chicken Crispy Tacos,"RoastedChiliCornSalsaMedium,BlackBeans,Rice,Cheese",1
+Chicken Crispy Tacos,"TomatilloGreenChiliSalsa,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Crispy Tacos,"TomatilloGreenChiliSalsaMedium,BlackBeans,Rice,Cheese",1
+Chicken Crispy Tacos,TomatilloRedChiliSalsa,1
+Chicken Crispy Tacos,"TomatilloRedChiliSalsa,BlackBeans,Cheese",1
+Chicken Crispy Tacos,"TomatilloRedChiliSalsa,BlackBeans,Cheese,Lettuce,Guacamole",1
+Chicken Crispy Tacos,"TomatilloRedChiliSalsa,Cheese",1
+Chicken Crispy Tacos,"TomatilloRedChiliSalsa,Cheese,SourCream,Lettuce",1
+Chicken Crispy Tacos,"TomatilloRedChiliSalsa,Rice,Cheese",1
+Chicken Crispy Tacos,"TomatilloRedChiliSalsa,Rice,FajitaVegetables,Cheese,Lettuce",1
+Chicken Salad,"FreshTomatoSalsaMild,BlackBeans",3
+Chicken Salad,"FreshTomatoSalsaMild,BlackBeans,Cheese,Lettuce",1
+Chicken Salad,"FreshTomatoSalsaMild,PintoBeans,BlackBeans,Rice,FajitaVeggies,Lettuce",1
+Chicken Salad,"FreshTomatoSalsaMild,PintoBeans,Rice,Cheese,SourCream",1
+Chicken Salad,"RoastedChiliCornMedium,Lettuce,BlackBeans,Cheese",1
+Chicken Salad,"RoastedChiliCornSalsaMedium,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Salad,"TomatilloGreenChiliSalsaMedium,RoastedChiliCornSalsaMedium,Rice,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",5
+Chicken Salad Bowl,"TomatilloGreenChiliSalsa,BlackBeans,Cheese,Guacamole",5
+Chicken Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,Lettuce",4
+Chicken Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,PintoBeans,Lettuce",4
+Chicken Salad Bowl,"FreshTomatoSalsa,BlackBeans,Cheese,Guacamole",3
+Chicken Salad Bowl,"FreshTomatoSalsa,FajitaVegetables",3
+Chicken Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,PintoBeans,Guacamole,Lettuce",3
+Chicken Salad Bowl,"FreshTomatoSalsa,Rice,FajitaVegetables,PintoBeans,BlackBeans,Lettuce,Guacamole",3
+Chicken Salad Bowl,FreshTomatoSalsa,2
+Chicken Salad Bowl,"FreshTomatoSalsa,Cheese,Lettuce",2
+Chicken Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,Cheese,SourCream",2
+Chicken Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,Cheese,SourCream,Lettuce",2
+Chicken Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,SourCream,Cheese,Lettuce",2
+Chicken Salad Bowl,"FreshTomatoSalsa,Lettuce",2
+Chicken Salad Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,SourCream,Lettuce",2
+Chicken Salad Bowl,"FreshTomatoSalsa,Rice,Guacamole",2
+Chicken Salad Bowl,"RoastedChiliCornSalsa,BlackBeans,SourCream,Cheese,Lettuce",2
+Chicken Salad Bowl,"TomatilloRedChiliSalsa,FajitaVegetables,BlackBeans,Guacamole,Lettuce",2
+Chicken Salad Bowl,"FreshTomatoSalsa,BlackBeans,Cheese,SourCream",1
+Chicken Salad Bowl,"FreshTomatoSalsa,BlackBeans,Guacamole",1
+Chicken Salad Bowl,"FreshTomatoSalsa,Cheese,Guacamole,Lettuce",1
+Chicken Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,BlackBeans,Cheese,Guacamole",1
+Chicken Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,BlackBeans,Cheese,Lettuce",1
+Chicken Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,BlackBeans,Guacamole,Lettuce",1
+Chicken Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,Guacamole",1
+Chicken Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,Guacamole,Lettuce",1
+Chicken Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,PintoBeans,Guacamole",1
+Chicken Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream",1
+Chicken Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,PintoBeans,Cheese,Lettuce",1
+Chicken Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,PintoBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,PintoBeans,Guacamole,Lettuce",1
+Chicken Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,Cheese,SourCream,Guacamole",1
+Chicken Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,Cheese,SourCream,Lettuce",1
+Chicken Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,Guacamole,Lettuce",1
+Chicken Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,PintoBeans,Cheese,Guacamole",1
+Chicken Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,SourCream",1
+Chicken Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,SourCream,Guacamole",1
+Chicken Salad Bowl,"FreshTomatoSalsa,PintoBeans,Cheese,Lettuce",1
+Chicken Salad Bowl,"FreshTomatoSalsa,PintoBeans,Cheese,SourCream,Guacamole,FajitaVegetables,Rice,BlackBeans,Lettuce",1
+Chicken Salad Bowl,"FreshTomatoSalsa,PintoBeans,Lettuce",1
+Chicken Salad Bowl,"FreshTomatoSalsa,PintoBeans,SourCream,Cheese",1
+Chicken Salad Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Cheese",1
+Chicken Salad Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,Guacamole,Lettuce",1
+Chicken Salad Bowl,"FreshTomatoSalsa,Rice,Cheese,SourCream,Guacamole",1
+Chicken Salad Bowl,"FreshTomatoSalsa,Rice,Lettuce",1
+Chicken Salad Bowl,"FreshTomatoSalsa,Rice,PintoBeans,Lettuce",1
+Chicken Salad Bowl,"FreshTomatoSalsa,SourCream,Cheese,Lettuce",1
+Chicken Salad Bowl,"RoastedChiliCornSalsa,BlackBeans,Cheese,Lettuce",1
+Chicken Salad Bowl,"RoastedChiliCornSalsa,BlackBeans,Cheese,SourCream,Lettuce",1
+Chicken Salad Bowl,"RoastedChiliCornSalsa,Cheese",1
+Chicken Salad Bowl,"RoastedChiliCornSalsa,Cheese,Guacamole,Lettuce",1
+Chicken Salad Bowl,"RoastedChiliCornSalsa,Cheese,Lettuce",1
+Chicken Salad Bowl,"RoastedChiliCornSalsa,FajitaVegetables,BlackBeans,Guacamole,Lettuce",1
+Chicken Salad Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice",1
+Chicken Salad Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Guacamole",1
+Chicken Salad Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,PintoBeans,Guacamole,Lettuce",1
+Chicken Salad Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,Cheese,Lettuce",1
+Chicken Salad Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,Guacamole,Lettuce",1
+Chicken Salad Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,PintoBeans,Cheese,SourCream,Lettuce",1
+Chicken Salad Bowl,"RoastedChiliCornSalsa,PintoBeans,Cheese,SourCream,Lettuce",1
+Chicken Salad Bowl,"RoastedChiliCornSalsa,Rice,BlackBeans,Lettuce",1
+Chicken Salad Bowl,"RoastedChiliCornSalsa,Rice,FajitaVegetables,BlackBeans,Cheese,Lettuce,Guacamole",1
+Chicken Salad Bowl,"RoastedChiliCornSalsa,Rice,Guacamole",1
+Chicken Salad Bowl,"RoastedChiliCornSalsa,Rice,PintoBeans,Cheese,SourCream,Lettuce",1
+Chicken Salad Bowl,"RoastedChiliCornSalsa,Rice,PintoBeans,Lettuce",1
+Chicken Salad Bowl,"RoastedChiliCornSalsa,Rice,SourCream",1
+Chicken Salad Bowl,"TomatilloGreenChiliSalsa,BlackBeans,SourCream,Cheese,Guacamole",1
+Chicken Salad Bowl,"TomatilloGreenChiliSalsa,BlackBeans,SourCream,Cheese,Lettuce,Guacamole",1
+Chicken Salad Bowl,"TomatilloGreenChiliSalsa,FajitaVegetables,BlackBeans,Cheese,Lettuce",1
+Chicken Salad Bowl,"TomatilloGreenChiliSalsa,FajitaVegetables,BlackBeans,PintoBeans,Lettuce",1
+Chicken Salad Bowl,"TomatilloGreenChiliSalsa,FajitaVegetables,Lettuce",1
+Chicken Salad Bowl,"TomatilloGreenChiliSalsa,FajitaVegetables,Rice,Cheese,SourCream,Lettuce",1
+Chicken Salad Bowl,"TomatilloGreenChiliSalsa,SourCream,Cheese,Guacamole",1
+Chicken Salad Bowl,"TomatilloRedChiliSalsa,BlackBeans,Cheese,Lettuce",1
+Chicken Salad Bowl,"TomatilloRedChiliSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,Guacamole",1
+Chicken Salad Bowl,"TomatilloRedChiliSalsa,Rice,Cheese",1
+Chicken Salad Bowl,"TomatilloRedChiliSalsa,Rice,FajitaVegetables,BlackBeans,Cheese,Lettuce",1
+Chicken Soft Tacos,"RoastedChiliCornSalsa,Rice,Cheese",8
+Chicken Soft Tacos,"FreshTomatoSalsa,Cheese,SourCream,Lettuce",5
+Chicken Soft Tacos,"RoastedChiliCornSalsa,Rice,Cheese,Lettuce,Guacamole",5
+Chicken Soft Tacos,"FreshTomatoSalsaMild,PintoBeans,Rice,Cheese,SourCream",4
+Chicken Soft Tacos,"FreshTomatoSalsa,Cheese,Lettuce",3
+Chicken Soft Tacos,"FreshTomatoSalsa,Rice,Cheese,SourCream",3
+Chicken Soft Tacos,"FreshTomatoSalsa,SourCream,Cheese,Guacamole",3
+Chicken Soft Tacos,"RoastedChiliCornSalsa,FajitaVegetables,Rice,Cheese,SourCream,Lettuce",3
+Chicken Soft Tacos,"TomatilloRedChiliSalsa,FajitaVegetables,BlackBeans,Cheese,Guacamole,Lettuce",3
+Chicken Soft Tacos,"FreshTomatoSalsa,FajitaVegetables,Cheese,SourCream",2
+Chicken Soft Tacos,"FreshTomatoSalsa,Rice",2
+Chicken Soft Tacos,"FreshTomatoSalsa,SourCream,Lettuce",2
+Chicken Soft Tacos,"FreshTomatoSalsaMild,Cheese,SourCream",2
+Chicken Soft Tacos,"FreshTomatoSalsaMild,Cheese,SourCream,Lettuce",2
+Chicken Soft Tacos,"RoastedChiliCornSalsa,Rice,FajitaVegetables,SourCream,Cheese,Lettuce",2
+Chicken Soft Tacos,"TomatilloRedChiliSalsa,Cheese",2
+Chicken Soft Tacos,"TomatilloRedChiliSalsa,Rice,Cheese",2
+Chicken Soft Tacos,"TomatilloRedChiliSalsaHot,Cheese",2
+Chicken Soft Tacos,FreshTomatoSalsa,1
+Chicken Soft Tacos,"FreshTomatoSalsa,Cheese,Guacamole,Lettuce",1
+Chicken Soft Tacos,"FreshTomatoSalsa,Cheese,SourCream",1
+Chicken Soft Tacos,"FreshTomatoSalsa,Cheese,SourCream,Guacamole",1
+Chicken Soft Tacos,"FreshTomatoSalsa,Cheese,SourCream,Guacamole,Lettuce",1
+Chicken Soft Tacos,"FreshTomatoSalsa,FajitaVegetables,BlackBeans,Cheese,SourCream,Guacamole",1
+Chicken Soft Tacos,"FreshTomatoSalsa,FajitaVegetables,Cheese,Guacamole",1
+Chicken Soft Tacos,"FreshTomatoSalsa,FajitaVegetables,Cheese,Guacamole,Lettuce",1
+Chicken Soft Tacos,"FreshTomatoSalsa,FajitaVegetables,Cheese,Lettuce",1
+Chicken Soft Tacos,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Lettuce",1
+Chicken Soft Tacos,"FreshTomatoSalsa,FajitaVegetables,Rice,Cheese,SourCream,Lettuce",1
+Chicken Soft Tacos,"FreshTomatoSalsa,Rice,BlackBeans,Cheese",1
+Chicken Soft Tacos,"FreshTomatoSalsa,Rice,Cheese",1
+Chicken Soft Tacos,"FreshTomatoSalsa,Rice,FajitaVegetables,Cheese",1
+Chicken Soft Tacos,"FreshTomatoSalsa,Rice,SourCream,Cheese,Lettuce",1
+Chicken Soft Tacos,"FreshTomatoSalsa,SourCream",1
+Chicken Soft Tacos,"FreshTomatoSalsaMild,BlackBeans,Rice,Cheese,SourCream,Lettuce",1
+Chicken Soft Tacos,"FreshTomatoSalsaMild,Cheese,Lettuce",1
+Chicken Soft Tacos,"FreshTomatoSalsaMild,PintoBeans,Cheese,SourCream",1
+Chicken Soft Tacos,"FreshTomatoSalsaMild,PintoBeans,Rice,Cheese,Lettuce",1
+Chicken Soft Tacos,"FreshTomatoSalsaMild,PintoBeans,Rice,Cheese,SourCream,Lettuce",1
+Chicken Soft Tacos,"FreshTomatoSalsaMild,Rice,Cheese,SourCream",1
+Chicken Soft Tacos,"FreshTomatoSalsaMild,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Chicken Soft Tacos,"FreshTomatoSalsaMild,Rice,FajitaVeggies,Guacamole,Lettuce",1
+Chicken Soft Tacos,"FreshTomatoSalsaMild,Rice,FajitaVeggies,SourCream,Lettuce",1
+Chicken Soft Tacos,"RoastedChiliCornSalsa,BlackBeans,Cheese,Guacamole,Lettuce",1
+Chicken Soft Tacos,"RoastedChiliCornSalsa,BlackBeans,Cheese,SourCream",1
+Chicken Soft Tacos,"RoastedChiliCornSalsa,BlackBeans,Lettuce",1
+Chicken Soft Tacos,"RoastedChiliCornSalsa,Cheese,Lettuce",1
+Chicken Soft Tacos,"RoastedChiliCornSalsa,FajitaVegetables,Cheese",1
+Chicken Soft Tacos,"RoastedChiliCornSalsa,FajitaVegetables,Rice,Cheese,Lettuce",1
+Chicken Soft Tacos,"RoastedChiliCornSalsa,Rice",1
+Chicken Soft Tacos,"RoastedChiliCornSalsa,Rice,BlackBeans,Cheese,Lettuce,Guacamole",1
+Chicken Soft Tacos,"RoastedChiliCornSalsa,Rice,BlackBeans,Cheese,SourCream",1
+Chicken Soft Tacos,"RoastedChiliCornSalsa,Rice,Cheese,Lettuce",1
+Chicken Soft Tacos,"RoastedChiliCornSalsa,Rice,FajitaVegetables,Lettuce,Guacamole",1
+Chicken Soft Tacos,"RoastedChiliCornSalsaMedium,Cheese",1
+Chicken Soft Tacos,"RoastedChiliCornSalsaMedium,Cheese,SourCream",1
+Chicken Soft Tacos,"RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,Rice,FajitaVeggies,Cheese,Lettuce",1
+Chicken Soft Tacos,"TomatilloGreenChiliSalsa,Guacamole,SourCream",1
+Chicken Soft Tacos,"TomatilloGreenChiliSalsa,Rice,BlackBeans,Cheese,SourCream,Lettuce",1
+Chicken Soft Tacos,"TomatilloGreenChiliSalsa,Rice,FajitaVegetables,Cheese,Lettuce",1
+Chicken Soft Tacos,"TomatilloGreenChiliSalsa,SourCream,Guacamole",1
+Chicken Soft Tacos,"TomatilloGreenChiliSalsaMedium,Cheese,SourCream",1
+Chicken Soft Tacos,"TomatilloGreenChiliSalsaMedium,FreshTomatoSalsaMild,Cheese,SourCream,Guacamole",1
+Chicken Soft Tacos,"TomatilloGreenChiliSalsaMedium,PintoBeans,Cheese,SourCream,Lettuce",1
+Chicken Soft Tacos,"TomatilloRedChiliSalsa,FajitaVegetables,BlackBeans,Cheese,Lettuce",1
+Chicken Soft Tacos,"TomatilloRedChiliSalsa,Rice",1
+Chicken Soft Tacos,"TomatilloRedChiliSalsa,Rice,BlackBeans,Cheese,SourCream,Lettuce",1
+Chicken Soft Tacos,"TomatilloRedChiliSalsa,Rice,Cheese,SourCream",1
+Chicken Soft Tacos,"TomatilloRedChiliSalsa,Rice,Cheese,SourCream,Lettuce",1
+Chicken Soft Tacos,"TomatilloRedChiliSalsa,Rice,SourCream",1
+Chicken Soft Tacos,"TomatilloRedChiliSalsaHot,BlackBeans,Cheese,SourCream,Lettuce",1
+Chicken Soft Tacos,"TomatilloRedChiliSalsaHot,BlackBeans,Rice,Cheese,Lettuce",1
+Chicken Soft Tacos,"TomatilloRedChiliSalsaHot,BlackBeans,Rice,Cheese,SourCream,Lettuce",1
+Chicken Soft Tacos,"TomatilloRedChiliSalsaHot,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Chicken Soft Tacos,"TomatilloRedChiliSalsaHot,Cheese,SourCream,Lettuce",1
+Chicken Soft Tacos,"TomatilloRedChiliSalsaHot,FajitaVeggies",1
+Chicken Soft Tacos,"TomatilloRedChiliSalsaHot,FajitaVeggies,Cheese,SourCream,Guacamole",1
+Chicken Soft Tacos,"TomatilloRedChiliSalsaHot,RoastedChiliCornSalsaMedium,Guacamole,Cheese,SourCream",1
+Chips,Origin,211
+Chips and Fresh Tomato Salsa,Origin,110
+Chips and Guacamole,Origin,479
+Chips and Mild Fresh Tomato Salsa,Origin,1
+Chips and Roasted Chili Corn Salsa,Origin,22
+Chips and Roasted Chili-Corn Salsa,Origin,18
+Chips and Tomatillo Green Chili Salsa,Origin,43
+Chips and Tomatillo Red Chili Salsa,Origin,48
+Chips and Tomatillo-Green Chili Salsa,Origin,31
+Chips and Tomatillo-Red Chili Salsa,Origin,20
+Crispy Tacos,AdoboMarinatedandGrilledChicken,1
+Crispy Tacos,AdoboMarinatedandGrilledSteak,1
+Izze,Blackberry,8
+Izze,Clementine,8
+Izze,Grapefruit,4
+Nantucket Nectar,PeachOrange,8
+Nantucket Nectar,PineappleOrangeBanana,8
+Nantucket Nectar,Apple,6
+Nantucket Nectar,PomegranateCherry,5
+Salad,"BrownRice,AdoboMarinatedandGrilledChicken,VegetarianBlackBeans",1
+Salad,"WhiteRice,AdoboMarinatedandGrilledChicken,VegetarianBlackBeans",1
+Side of Chips,Origin,101
+Steak Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,SourCream,Guacamole",5
+Steak Bowl,"FreshTomatoSalsaMild,Rice,Cheese,SourCream,Lettuce",5
+Steak Bowl,"RoastedChiliCornSalsa,Rice,PintoBeans,SourCream,Cheese,Guacamole",5
+Steak Bowl,"FreshTomatoSalsa,Rice",3
+Steak Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",3
+Steak Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,SourCream,Lettuce",3
+Steak Bowl,"FreshTomatoSalsa,Rice,PintoBeans,Cheese,SourCream,Lettuce",3
+Steak Bowl,"RoastedChiliCornSalsa,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",3
+Steak Bowl,"TomatilloGreenChiliSalsa,Rice,Cheese,SourCream,Guacamole,Lettuce",3
+Steak Bowl,"TomatilloRedChiliSalsa,Rice,BlackBeans,Cheese",3
+Steak Bowl,"TomatilloRedChiliSalsa,Rice,BlackBeans,Cheese,SourCream,Lettuce",3
+Steak Bowl,"FreshTomatoMild,Guacamole,Lettuce,PintoBeans,Rice,SourCream,Cheese",2
+Steak Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Lettuce",2
+Steak Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Cheese",2
+Steak Bowl,"FreshTomatoSalsa,Rice,BlackBeans,PintoBeans,Cheese,SourCream,Guacamole,Lettuce",2
+Steak Bowl,"FreshTomatoSalsa,Rice,Cheese",2
+Steak Bowl,"FreshTomatoSalsa,Rice,Cheese,Lettuce",2
+Steak Bowl,"FreshTomatoSalsa,Rice,Cheese,SourCream,Guacamole",2
+Steak Bowl,"FreshTomatoSalsa,Rice,Cheese,SourCream,Lettuce",2
+Steak Bowl,"FreshTomatoSalsa,Rice,PintoBeans,Cheese",2
+Steak Bowl,"FreshTomatoSalsaMild,TomatilloGreenChiliSalsaMedium,RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream",2
+Steak Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",2
+Steak Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Lettuce",2
+Steak Bowl,"RoastedChiliCornSalsa,Rice,BlackBeans,Cheese,Guacamole,Lettuce",2
+Steak Bowl,"RoastedChiliCornSalsa,Rice,BlackBeans,Cheese,Lettuce",2
+Steak Bowl,"RoastedChiliCornSalsa,Rice,BlackBeans,Cheese,SourCream",2
+Steak Bowl,"RoastedChiliCornSalsa,Rice,BlackBeans,Cheese,SourCream,Lettuce",2
+Steak Bowl,"RoastedChiliCornSalsa,Rice,BlackBeans,Lettuce,Guacamole",2
+Steak Bowl,"RoastedChiliCornSalsa,Rice,PintoBeans,Cheese,SourCream,Guacamole",2
+Steak Bowl,"RoastedChiliCornSalsaMedium,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",2
+Steak Bowl,"RoastedChiliCornSalsaMedium,Rice,BlackBeans,SourCream",2
+Steak Bowl,"RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,FreshTomatoSalsaMild,TomatilloGreenChiliSalsaMedium,Rice,BlackBeans,FajitaVeggies,Cheese,SourCream",2
+Steak Bowl,"RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,Rice,Cheese,SourCream,Guacamole",2
+Steak Bowl,"TomatilloGreenChiliSalsa,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",2
+Steak Bowl,"TomatilloGreenChiliSalsa,Rice,PintoBeans,Cheese,Lettuce",2
+Steak Bowl,"TomatilloRedChiliSalsa,Rice,Cheese,SourCream,Guacamole,Lettuce",2
+Steak Bowl,"TomatilloRedChiliSalsa,Rice,Cheese,SourCream,Lettuce",2
+Steak Bowl,"TomatilloRedChiliSalsaHot,BlackBeans,Rice,Cheese,SourCream",2
+Steak Bowl,"TomatilloRedChiliSalsaHot,BlackBeans,Rice,Cheese,SourCream,Lettuce",2
+Steak Bowl,"FreshTomatoMild,Lettuce,BlackBeans,Rice",1
+Steak Bowl,"FreshTomatoMild,Lettuce,BlackBeans,Rice,Cheese",1
+Steak Bowl,FreshTomatoSalsa,1
+Steak Bowl,"FreshTomatoSalsa,BlackBeans,Cheese,SourCream",1
+Steak Bowl,"FreshTomatoSalsa,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Bowl,"FreshTomatoSalsa,BlackBeans,PintoBeans,Cheese,SourCream,Guacamole",1
+Steak Bowl,"FreshTomatoSalsa,Cheese,BlackBeans,PintoBeans,Guacamole,SourCream",1
+Steak Bowl,"FreshTomatoSalsa,FajitaVegetables,Cheese,SourCream,Guacamole",1
+Steak Bowl,"FreshTomatoSalsa,FajitaVegetables,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Lettuce",1
+Steak Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,SourCream,Guacamole",1
+Steak Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,Cheese,Lettuce",1
+Steak Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,Cheese,SourCream,Guacamole",1
+Steak Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,Guacamole",1
+Steak Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,PintoBeans,Cheese,SourCream",1
+Steak Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,PintoBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,PintoBeans,Cheese,SourCream,Lettuce",1
+Steak Bowl,"FreshTomatoSalsa,FajitaVegetables,SourCream,Cheese,Lettuce,Guacamole",1
+Steak Bowl,"FreshTomatoSalsa,Guacamole",1
+Steak Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,Guacamole",1
+Steak Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,Guacamole,Lettuce",1
+Steak Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,Lettuce",1
+Steak Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,SourCream",1
+Steak Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Guacamole,Lettuce",1
+Steak Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Lettuce",1
+Steak Bowl,"FreshTomatoSalsa,Rice,BlackBeans,PintoBeans,Cheese,SourCream",1
+Steak Bowl,"FreshTomatoSalsa,Rice,BlackBeans,SourCream,Cheese,Guacamole",1
+Steak Bowl,"FreshTomatoSalsa,Rice,BlackBeans,SourCream,Lettuce",1
+Steak Bowl,"FreshTomatoSalsa,Rice,Cheese,SourCream",1
+Steak Bowl,"FreshTomatoSalsa,Rice,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Bowl,"FreshTomatoSalsa,Rice,FajitaVegetables,BlackBeans,Guacamole",1
+Steak Bowl,"FreshTomatoSalsa,Rice,FajitaVegetables,Cheese",1
+Steak Bowl,"FreshTomatoSalsa,Rice,FajitaVegetables,SourCream,Cheese,Guacamole",1
+Steak Bowl,"FreshTomatoSalsa,Rice,PintoBeans,Cheese,Guacamole,Lettuce",1
+Steak Bowl,"FreshTomatoSalsa,Rice,PintoBeans,SourCream,Cheese,Lettuce,Guacamole",1
+Steak Bowl,"FreshTomatoSalsa,Rice,SourCream,Cheese,Lettuce,Guacamole",1
+Steak Bowl,"FreshTomatoSalsaMild,BlackBeans,Rice,Cheese,Lettuce",1
+Steak Bowl,"FreshTomatoSalsaMild,BlackBeans,Rice,Cheese,SourCream",1
+Steak Bowl,"FreshTomatoSalsaMild,BlackBeans,Rice,Cheese,SourCream,Lettuce",1
+Steak Bowl,"FreshTomatoSalsaMild,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream",1
+Steak Bowl,"FreshTomatoSalsaMild,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Steak Bowl,"FreshTomatoSalsaMild,BlackBeans,Rice,FajitaVeggies,Lettuce,Cheese,SourCream",1
+Steak Bowl,"FreshTomatoSalsaMild,PintoBeans,Rice,FajitaVeggies,Cheese,Guacamole,Lettuce",1
+Steak Bowl,"FreshTomatoSalsaMild,Rice,Cheese",1
+Steak Bowl,"FreshTomatoSalsaMild,Rice,FajitaVeggies,Guacamole,Lettuce",1
+Steak Bowl,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Steak Bowl,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,PintoBeans,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Steak Bowl,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,Rice,FajitaVeggies,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Bowl,"FreshTomatoSalsaMild,SourCream,Lettuce,Cheese,BlackBeans,Rice",1
+Steak Bowl,"FreshTomatoSalsaMild,TomatilloGreenChiliSalsaMedium,RoastedChiliCornSalsaMedium,PintoBeans,Rice,Cheese,SourCream,Lettuce",1
+Steak Bowl,"FreshTomatoSalsaMild,TomatilloGreenChiliSalsaMedium,RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,PintoBeans,BlackBeans,Rice,Cheese,SourCream",1
+Steak Bowl,"Rice,TomatilloRedChiliSalsaHot",1
+Steak Bowl,"RoastedChiliCornSalsa,BlackBeans,Cheese,SourCream",1
+Steak Bowl,"RoastedChiliCornSalsa,BlackBeans,Cheese,SourCream,Lettuce",1
+Steak Bowl,"RoastedChiliCornSalsa,BlackBeans,PintoBeans,Cheese,SourCream",1
+Steak Bowl,"RoastedChiliCornSalsa,FajitaVegetables,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,Guacamole",1
+Steak Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Guacamole",1
+Steak Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,Cheese,Lettuce",1
+Steak Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,Lettuce",1
+Steak Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,PintoBeans,Cheese,SourCream,Lettuce",1
+Steak Bowl,"RoastedChiliCornSalsa,PintoBeans,Rice,Cheese,SourCream,Guacamole",1
+Steak Bowl,"RoastedChiliCornSalsa,Rice,BlackBeans,SourCream",1
+Steak Bowl,"RoastedChiliCornSalsa,Rice,Cheese,SourCream",1
+Steak Bowl,"RoastedChiliCornSalsa,Rice,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Bowl,"RoastedChiliCornSalsa,Rice,Cheese,SourCream,Lettuce",1
+Steak Bowl,"RoastedChiliCornSalsa,Rice,FajitaVegetables,BlackBeans,SourCream,Cheese,Lettuce",1
+Steak Bowl,"RoastedChiliCornSalsa,Rice,PintoBeans",1
+Steak Bowl,"RoastedChiliCornSalsaMedium,BlackBeans,Rice,Cheese",1
+Steak Bowl,"RoastedChiliCornSalsaMedium,BlackBeans,Rice,FajitaVeggies",1
+Steak Bowl,"RoastedChiliCornSalsaMedium,FreshTomatoSalsaMild,Cheese,FajitaVeggies,Lettuce,SourCream,Rice,BlackBeans",1
+Steak Bowl,"RoastedChiliCornSalsaMedium,PintoBeans,Rice,Guacamole",1
+Steak Bowl,"RoastedChiliCornSalsaMedium,Rice,BlackBeans,FajitaVeggies",1
+Steak Bowl,"RoastedChiliCornSalsaMedium,Rice,BlackBeans,PintoBeans,FajitaVeggies,Lettuce",1
+Steak Bowl,"RoastedChiliCornSalsaMedium,Rice,Cheese",1
+Steak Bowl,"RoastedChiliCornSalsaMedium,Rice,Cheese,SourCream,Lettuce",1
+Steak Bowl,"RoastedChiliCornSalsaMedium,Rice,FajitaVeggies,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Bowl,"RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Steak Bowl,"RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,Rice,Cheese,Lettuce",1
+Steak Bowl,"TomatilloGreenChiliMedium,Rice,BlackBeans,SourCream,Cheese",1
+Steak Bowl,TomatilloGreenChiliSalsa,1
+Steak Bowl,"TomatilloGreenChiliSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,Guacamole",1
+Steak Bowl,"TomatilloGreenChiliSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,Guacamole,Lettuce",1
+Steak Bowl,"TomatilloGreenChiliSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,Lettuce",1
+Steak Bowl,"TomatilloGreenChiliSalsa,FajitaVegetables,Rice,Lettuce",1
+Steak Bowl,"TomatilloGreenChiliSalsa,FajitaVegetables,Rice,PintoBeans,Cheese,SourCream",1
+Steak Bowl,"TomatilloGreenChiliSalsa,Rice,BlackBeans,Cheese,SourCream,Lettuce",1
+Steak Bowl,"TomatilloGreenChiliSalsa,Rice,BlackBeans,Guacamole,Lettuce",1
+Steak Bowl,"TomatilloGreenChiliSalsa,Rice,PintoBeans,Cheese,Guacamole",1
+Steak Bowl,"TomatilloGreenChiliSalsa,Rice,PintoBeans,Cheese,Guacamole,Lettuce",1
+Steak Bowl,"TomatilloGreenChiliSalsa,Rice,PintoBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Bowl,"TomatilloGreenChiliSalsaMedium,Rice,Cheese,SourCream,Lettuce",1
+Steak Bowl,"TomatilloGreenChiliSalsaMedium,Rice,PintoBeans,Cheese,SourCream,Lettuce",1
+Steak Bowl,"TomatilloGreenChiliSalsaMedium,RoastedChiliCornSalsaMedium,Rice,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Bowl,"TomatilloRedChiliSalsa,BlackBeans,PintoBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Bowl,"TomatilloRedChiliSalsa,FajitaVegetables,Cheese,Guacamole,Lettuce",1
+Steak Bowl,"TomatilloRedChiliSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Bowl,"TomatilloRedChiliSalsa,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Bowl,"TomatilloRedChiliSalsa,Rice,BlackBeans,PintoBeans,Cheese,Lettuce",1
+Steak Bowl,"TomatilloRedChiliSalsa,Rice,BlackBeans,PintoBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Bowl,"TomatilloRedChiliSalsa,Rice,BlackBeans,SourCream,Lettuce,Guacamole",1
+Steak Bowl,"TomatilloRedChiliSalsa,Rice,Cheese",1
+Steak Bowl,"TomatilloRedChiliSalsa,Rice,FajitaVegetables,Cheese,Lettuce,Guacamole",1
+Steak Bowl,"TomatilloRedChiliSalsa,Rice,PintoBeans,Cheese",1
+Steak Bowl,"TomatilloRedChiliSalsa,Rice,PintoBeans,Guacamole,Lettuce",1
+Steak Bowl,"TomatilloRedChiliSalsa,Rice,SourCream,Cheese,Lettuce",1
+Steak Bowl,"TomatilloRedChiliSalsaHot,FreshTomatoSalsaMild,Rice,BlackBeans,Lettuce",1
+Steak Bowl,"TomatilloRedChiliSalsaHot,PintoBeans,Rice,Cheese,SourCream,Lettuce",1
+Steak Bowl,"TomatilloRedChiliSalsaHot,PintoBeans,Rice,FajitaVeggies,Cheese,Lettuce",1
+Steak Bowl,"TomatilloRedChiliSalsaHot,PintoBeans,Rice,FajitaVeggies,Cheese,SourCream",1
+Steak Bowl,"TomatilloRedChiliSalsaHot,Rice,BlackBeans,Cheese",1
+Steak Bowl,"TomatilloRedChiliSalsaHot,Rice,Cheese,SourCream,Guacamole",1
+Steak Bowl,"TomatilloRedChiliSalsaHot,Rice,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Burrito,"FreshTomatoSalsaMild,PintoBeans,Rice,Cheese,SourCream",12
+Steak Burrito,"RoastedChiliCornSalsaMedium,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",6
+Steak Burrito,"TomatilloGreenChiliSalsa,FajitaVegetables,Rice,Cheese,SourCream,Lettuce",6
+Steak Burrito,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",5
+Steak Burrito,"FreshTomatoSalsa,Rice,SourCream,Guacamole,Lettuce",5
+Steak Burrito,"RoastedChiliCornSalsaMedium,Rice,BlackBeans,SourCream",5
+Steak Burrito,"RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,BlackBeans,Rice,Cheese,SourCream,Lettuce",5
+Steak Burrito,"FreshTomatoSalsa,Rice,BlackBeans,Cheese",4
+Steak Burrito,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,SourCream",4
+Steak Burrito,"FreshTomatoSalsa,Rice,PintoBeans,Cheese,SourCream",4
+Steak Burrito,"FreshTomatoSalsa,Rice,PintoBeans,Cheese,SourCream,Guacamole,Lettuce",4
+Steak Burrito,"Lettuce,FajitaVeggies,Rice",4
+Steak Burrito,"RoastedChiliCornSalsa,Rice,PintoBeans,Cheese,SourCream,Guacamole",4
+Steak Burrito,"TomatilloRedChiliSalsa,Rice,BlackBeans,Cheese",4
+Steak Burrito,"TomatilloRedChiliSalsaHot,Rice,Cheese,SourCream,Lettuce",4
+Steak Burrito,"FreshTomatoMild,Lettuce,Guacamole,Rice,Cheese",3
+Steak Burrito,"FreshTomatoSalsa,PintoBeans,Cheese,SourCream",3
+Steak Burrito,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,SourCream,Guacamole",3
+Steak Burrito,"FreshTomatoSalsa,Rice,PintoBeans,Cheese,Guacamole,Lettuce",3
+Steak Burrito,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,BlackBeans,Rice,SourCream",3
+Steak Burrito,"RoastedChiliCornSalsa,Rice,PintoBeans,Cheese,Lettuce",3
+Steak Burrito,"TomatilloGreenChiliSalsa,FajitaVegetables,Rice,Cheese,SourCream,Guacamole,Lettuce",3
+Steak Burrito,"TomatilloGreenChiliSalsa,Rice,FajitaVegetables,SourCream,Cheese,Lettuce",3
+Steak Burrito,"TomatilloGreenChiliSalsa,Rice,SourCream,Guacamole,Lettuce",3
+Steak Burrito,"TomatilloRedChiliSalsa,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",3
+Steak Burrito,"TomatilloRedChiliSalsa,Rice,BlackBeans,Cheese,SourCream,Lettuce",3
+Steak Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream",2
+Steak Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,Cheese,SourCream,Lettuce",2
+Steak Burrito,"FreshTomatoSalsa,PintoBeans,Cheese,SourCream,Guacamole",2
+Steak Burrito,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,Lettuce",2
+Steak Burrito,"FreshTomatoSalsa,Rice,BlackBeans,PintoBeans,Cheese,SourCream,Lettuce",2
+Steak Burrito,"FreshTomatoSalsa,Rice,BlackBeans,SourCream,Cheese",2
+Steak Burrito,"FreshTomatoSalsa,Rice,BlackBeans,SourCream,Cheese,Lettuce,Guacamole",2
+Steak Burrito,"FreshTomatoSalsa,Rice,Cheese",2
+Steak Burrito,"FreshTomatoSalsa,Rice,Cheese,SourCream",2
+Steak Burrito,"FreshTomatoSalsa,Rice,PintoBeans,Cheese,SourCream,Guacamole",2
+Steak Burrito,"FreshTomatoSalsa,Rice,SourCream,Cheese,Lettuce,Guacamole",2
+Steak Burrito,"FreshTomatoSalsaMild,BlackBeans,Rice,Cheese,SourCream,Lettuce",2
+Steak Burrito,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,BlackBeans,Rice,Cheese,Lettuce",2
+Steak Burrito,"FreshTomatoSalsaMild,TomatilloRedChiliSalsaHot,Rice,Cheese,SourCream",2
+Steak Burrito,"RoastedChiliCornSalsa,BlackBeans,Cheese,Lettuce",2
+Steak Burrito,"RoastedChiliCornSalsa,Cheese,BlackBeans,Lettuce",2
+Steak Burrito,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Cheese",2
+Steak Burrito,"RoastedChiliCornSalsa,FajitaVegetables,Rice,Cheese,Lettuce",2
+Steak Burrito,"RoastedChiliCornSalsa,FajitaVegetables,Rice,Cheese,SourCream,Guacamole,Lettuce",2
+Steak Burrito,"RoastedChiliCornSalsa,Rice,PintoBeans,SourCream,Cheese,Guacamole",2
+Steak Burrito,"RoastedChiliCornSalsa,Rice,PintoBeans,SourCream,Cheese,Lettuce",2
+Steak Burrito,"RoastedChiliCornSalsaMedium,Rice,BlackBeans,FajitaVeggies,SourCream",2
+Steak Burrito,"RoastedChiliCornSalsaMedium,TomatilloGreenChiliSalsaMedium,Rice,BlackBeans,SourCream",2
+Steak Burrito,"TomatilloGreenChiliSalsa,Rice,BlackBeans,Cheese,SourCream,Lettuce",2
+Steak Burrito,"TomatilloGreenChiliSalsa,Rice,Cheese,Guacamole",2
+Steak Burrito,"TomatilloGreenChiliSalsa,Rice,Cheese,Guacamole,Lettuce",2
+Steak Burrito,"TomatilloGreenChiliSalsaMedium,Rice,Cheese,SourCream,Lettuce",2
+Steak Burrito,"TomatilloGreenChiliSalsaMedium,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",2
+Steak Burrito,TomatilloRedChiliSalsa,2
+Steak Burrito,"TomatilloRedChiliSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",2
+Steak Burrito,"TomatilloRedChiliSalsa,Rice,FajitaVegetables,Cheese,Lettuce,Guacamole",2
+Steak Burrito,"TomatilloRedChiliSalsa,Rice,PintoBeans,Cheese,Lettuce",2
+Steak Burrito,"TomatilloRedChiliSalsaHot,Rice,Cheese,SourCream",2
+Steak Burrito,"TomatilloRedChiliSalsaHot,Rice,FajitaVeggies,Cheese",2
+Steak Burrito,BrownRice,1
+Steak Burrito,"FreshTomatoMild,BlackBeans,Guacamole,Rice,SourCream,Cheese",1
+Steak Burrito,"FreshTomatoMild,Lettuce,Guacamole,PintoBeans,Rice,SourCream,Cheese",1
+Steak Burrito,"FreshTomatoMild,Lettuce,PintoBeans,Rice,SourCream,Cheese",1
+Steak Burrito,"FreshTomatoSalsa,BlackBeans,Cheese,Guacamole,Lettuce",1
+Steak Burrito,"FreshTomatoSalsa,Cheese,BlackBeans,Rice",1
+Steak Burrito,"FreshTomatoSalsa,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Burrito,"FreshTomatoSalsa,FajitaVegetables,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,Guacamole",1
+Steak Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,Lettuce",1
+Steak Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Guacamole",1
+Steak Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Guacamole,Lettuce",1
+Steak Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,PintoBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,SourCream,Guacamole,Lettuce",1
+Steak Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,Cheese",1
+Steak Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,Cheese,Lettuce",1
+Steak Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,PintoBeans,Cheese,SourCream,Lettuce",1
+Steak Burrito,"FreshTomatoSalsa,Guacamole,Lettuce,SourCream,Rice",1
+Steak Burrito,"FreshTomatoSalsa,Lettuce,SourCream,Cheese,FajitaVegetables,PintoBeans,Rice",1
+Steak Burrito,"FreshTomatoSalsa,PintoBeans,Cheese,SourCream,Lettuce",1
+Steak Burrito,"FreshTomatoSalsa,PintoBeans,Lettuce,Cheese,Rice",1
+Steak Burrito,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,Guacamole,Lettuce",1
+Steak Burrito,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,SourCream,Lettuce",1
+Steak Burrito,"FreshTomatoSalsa,Rice,Cheese,Guacamole,Lettuce",1
+Steak Burrito,"FreshTomatoSalsa,Rice,Cheese,Lettuce",1
+Steak Burrito,"FreshTomatoSalsa,Rice,Cheese,Lettuce,PintoBeans",1
+Steak Burrito,"FreshTomatoSalsa,Rice,Cheese,SourCream,Guacamole",1
+Steak Burrito,"FreshTomatoSalsa,Rice,FajitaVegetables,BlackBeans,SourCream,Cheese",1
+Steak Burrito,"FreshTomatoSalsa,Rice,FajitaVegetables,BlackBeans,SourCream,Cheese,Lettuce",1
+Steak Burrito,"FreshTomatoSalsa,Rice,FajitaVegetables,Cheese,Lettuce",1
+Steak Burrito,"FreshTomatoSalsa,Rice,FajitaVegetables,PintoBeans,Cheese,Guacamole",1
+Steak Burrito,"FreshTomatoSalsa,Rice,FajitaVegetables,PintoBeans,Cheese,Lettuce,Guacamole",1
+Steak Burrito,"FreshTomatoSalsa,Rice,PintoBeans,Cheese",1
+Steak Burrito,"FreshTomatoSalsa,Rice,PintoBeans,Cheese,Lettuce",1
+Steak Burrito,"FreshTomatoSalsa,Rice,PintoBeans,Guacamole,Lettuce",1
+Steak Burrito,"FreshTomatoSalsa,Rice,SourCream,Guacamole",1
+Steak Burrito,"FreshTomatoSalsa,Rice,SourCream,Lettuce",1
+Steak Burrito,"FreshTomatoSalsa,Rice,SourCream,Lettuce,Guacamole",1
+Steak Burrito,"FreshTomatoSalsa,SourCream,Guacamole,Rice,Lettuce",1
+Steak Burrito,"FreshTomatoSalsa,SourCream,Lettuce,Cheese,Rice",1
+Steak Burrito,"FreshTomatoSalsa,SourCream,Rice,Guacamole,Lettuce",1
+Steak Burrito,"FreshTomatoSalsaMild,BlackBeans",1
+Steak Burrito,"FreshTomatoSalsaMild,BlackBeans,Rice,Cheese,Lettuce",1
+Steak Burrito,"FreshTomatoSalsaMild,BlackBeans,Rice,FajitaVeggies,Cheese",1
+Steak Burrito,"FreshTomatoSalsaMild,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Steak Burrito,"FreshTomatoSalsaMild,BlackBeans,Rice,Guacamole,Lettuce",1
+Steak Burrito,"FreshTomatoSalsaMild,Cheese,Rice,PintoBeans,SourCream",1
+Steak Burrito,"FreshTomatoSalsaMild,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Burrito,"FreshTomatoSalsaMild,Cheese,SourCream,Lettuce",1
+Steak Burrito,"FreshTomatoSalsaMild,PintoBeans,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Steak Burrito,"FreshTomatoSalsaMild,PintoBeans,Cheese,Lettuce",1
+Steak Burrito,"FreshTomatoSalsaMild,PintoBeans,Cheese,SourCream",1
+Steak Burrito,"FreshTomatoSalsaMild,PintoBeans,Rice,Cheese,SourCream,Lettuce",1
+Steak Burrito,"FreshTomatoSalsaMild,PintoBeans,Rice,Guacamole",1
+Steak Burrito,"FreshTomatoSalsaMild,PintoBeans,Rice,SourCream",1
+Steak Burrito,"FreshTomatoSalsaMild,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Burrito,"FreshTomatoSalsaMild,Rice,BlackBeans,SourCream,Guacamole",1
+Steak Burrito,"FreshTomatoSalsaMild,Rice,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Burrito,"FreshTomatoSalsaMild,Rice,Cheese,SourCream,Lettuce",1
+Steak Burrito,"FreshTomatoSalsaMild,Rice,FajitaVeggies,Cheese,Guacamole",1
+Steak Burrito,"FreshTomatoSalsaMild,Rice,FajitaVeggies,Cheese,Lettuce",1
+Steak Burrito,"FreshTomatoSalsaMild,Rice,FajitaVeggies,Cheese,SourCream,Guacamole",1
+Steak Burrito,"FreshTomatoSalsaMild,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Steak Burrito,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,BlackBeans,Rice,FajitaVeggies,SourCream,Lettuce",1
+Steak Burrito,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,BlackBeans,Rice,SourCream,Guacamole,Lettuce",1
+Steak Burrito,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,PintoBeans,Rice,FajitaVeggies,Cheese,SourCream",1
+Steak Burrito,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,Rice,Guacamole,Lettuce",1
+Steak Burrito,"FreshTomatoSalsaMild,TomatilloRedChiliSalsaHot,BlackBeans,Rice,FajitaVeggies,Cheese,Lettuce",1
+Steak Burrito,"FreshTomatoSalsaMild,TomatilloRedChiliSalsaHot,PintoBeans,FajitaVeggies,Cheese,Guacamole",1
+Steak Burrito,"FreshTomatoSalsaMild,TomatilloRedChiliSalsaHot,PintoBeans,Rice,Cheese,SourCream",1
+Steak Burrito,"FreshTomatoSalsaMild,TomatilloRedChiliSalsaHot,PintoBeans,Rice,Cheese,SourCream,Lettuce",1
+Steak Burrito,"FreshTomatoSalsaMild,TomatilloRedChiliSalsaHot,Rice,Cheese,SourCream,Guacamole",1
+Steak Burrito,"FreshTomatoSalsaMild,TomatilloRedChiliSalsaHot,Rice,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Burrito,"FreshTomatoSalsaMild,TomatilloRedChiliSalsaHot,Rice,Cheese,SourCream,Lettuce",1
+Steak Burrito,"Rice,TomatilloRedChiliSalsaHot",1
+Steak Burrito,"RoastedChiliCornMedium,SourCream,Cheese",1
+Steak Burrito,RoastedChiliCornSalsa,1
+Steak Burrito,"RoastedChiliCornSalsa,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Burrito,"RoastedChiliCornSalsa,FajitaVegetables,BlackBeans,SourCream,Guacamole,Lettuce",1
+Steak Burrito,"RoastedChiliCornSalsa,FajitaVegetables,BlackBeans,SourCream,Lettuce,Guacamole",1
+Steak Burrito,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,Guacamole,Lettuce",1
+Steak Burrito,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Burrito,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,PintoBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Burrito,"RoastedChiliCornSalsa,FajitaVegetables,Rice,Cheese,SourCream,Lettuce",1
+Steak Burrito,"RoastedChiliCornSalsa,FajitaVegetables,Rice,PintoBeans,Cheese,SourCream",1
+Steak Burrito,"RoastedChiliCornSalsa,FajitaVegetables,SourCream,Lettuce,Guacamole",1
+Steak Burrito,"RoastedChiliCornSalsa,Lettuce,BlackBeans,Cheese",1
+Steak Burrito,"RoastedChiliCornSalsa,PintoBeans,Rice,Guacamole,SourCream,Cheese",1
+Steak Burrito,"RoastedChiliCornSalsa,Rice,BlackBeans,Cheese",1
+Steak Burrito,"RoastedChiliCornSalsa,Rice,BlackBeans,Cheese,SourCream",1
+Steak Burrito,"RoastedChiliCornSalsa,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Burrito,"RoastedChiliCornSalsa,Rice,BlackBeans,Cheese,SourCream,Lettuce",1
+Steak Burrito,"RoastedChiliCornSalsa,Rice,BlackBeans,SourCream,Cheese,Lettuce",1
+Steak Burrito,"RoastedChiliCornSalsa,Rice,BlackBeans,SourCream,Lettuce,Guacamole",1
+Steak Burrito,"RoastedChiliCornSalsa,Rice,Cheese",1
+Steak Burrito,"RoastedChiliCornSalsa,Rice,Cheese,Guacamole",1
+Steak Burrito,"RoastedChiliCornSalsa,Rice,Cheese,Guacamole,Lettuce",1
+Steak Burrito,"RoastedChiliCornSalsa,Rice,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Burrito,"RoastedChiliCornSalsa,Rice,Cheese,SourCream,Lettuce",1
+Steak Burrito,"RoastedChiliCornSalsa,Rice,FajitaVegetables,Cheese,Lettuce,Guacamole",1
+Steak Burrito,"RoastedChiliCornSalsa,Rice,FajitaVegetables,SourCream,Cheese,Lettuce",1
+Steak Burrito,"RoastedChiliCornSalsa,Rice,FajitaVegetables,SourCream,Cheese,Lettuce,Guacamole",1
+Steak Burrito,"RoastedChiliCornSalsa,Rice,FajitaVegetables,SourCream,Lettuce,Guacamole",1
+Steak Burrito,"RoastedChiliCornSalsa,Rice,PintoBeans,Cheese",1
+Steak Burrito,"RoastedChiliCornSalsa,Rice,PintoBeans,Cheese,SourCream",1
+Steak Burrito,"RoastedChiliCornSalsa,Rice,PintoBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Burrito,"RoastedChiliCornSalsa,Rice,PintoBeans,Cheese,SourCream,Lettuce",1
+Steak Burrito,"RoastedChiliCornSalsa,Rice,SourCream,Cheese,Guacamole",1
+Steak Burrito,"RoastedChiliCornSalsaMedium,BlackBeans,Cheese,SourCream,Lettuce",1
+Steak Burrito,"RoastedChiliCornSalsaMedium,BlackBeans,Rice",1
+Steak Burrito,"RoastedChiliCornSalsaMedium,BlackBeans,Rice,Cheese",1
+Steak Burrito,"RoastedChiliCornSalsaMedium,BlackBeans,Rice,Cheese,SourCream,Lettuce",1
+Steak Burrito,"RoastedChiliCornSalsaMedium,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream",1
+Steak Burrito,"RoastedChiliCornSalsaMedium,FajitaVeggies,Cheese,Lettuce,SourCream,Rice",1
+Steak Burrito,"RoastedChiliCornSalsaMedium,FreshTomatoSalsaMild,Lettuce,BlackBeans,SourCream,Cheese,Rice,FajitaVeggies,PintoBeans",1
+Steak Burrito,"RoastedChiliCornSalsaMedium,FreshTomatoSalsaMild,Rice,BlackBeans,Cheese,Lettuce",1
+Steak Burrito,"RoastedChiliCornSalsaMedium,FreshTomatoSalsaMild,Rice,BlackBeans,SourCream",1
+Steak Burrito,"RoastedChiliCornSalsaMedium,FreshTomatoSalsaMild,Rice,PintoBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Burrito,"RoastedChiliCornSalsaMedium,Lettuce",1
+Steak Burrito,"RoastedChiliCornSalsaMedium,PintoBeans,BlackBeans,Rice,FajitaVeggies,Lettuce",1
+Steak Burrito,"RoastedChiliCornSalsaMedium,PintoBeans,Rice,FajitaVeggies,Cheese,Lettuce",1
+Steak Burrito,"RoastedChiliCornSalsaMedium,Rice",1
+Steak Burrito,"RoastedChiliCornSalsaMedium,Rice,BlackBeans,PintoBeans,FajitaVeggies,Lettuce",1
+Steak Burrito,"RoastedChiliCornSalsaMedium,Rice,BlackBeans,SourCream,Guacamole",1
+Steak Burrito,"RoastedChiliCornSalsaMedium,Rice,BlackBeans,SourCream,Lettuce",1
+Steak Burrito,"RoastedChiliCornSalsaMedium,Rice,FajitaVeggies,Cheese,Lettuce",1
+Steak Burrito,"RoastedChiliCornSalsaMedium,Rice,FajitaVeggies,Cheese,SourCream",1
+Steak Burrito,"RoastedChiliCornSalsaMedium,Rice,FajitaVeggies,SourCream,Guacamole,Lettuce",1
+Steak Burrito,"RoastedChiliCornSalsaMedium,Rice,PintoBeans,Cheese,Lettuce",1
+Steak Burrito,"RoastedChiliCornSalsaMedium,Rice,PintoBeans,Lettuce",1
+Steak Burrito,"RoastedChiliCornSalsaMedium,Rice,SourCream,Lettuce",1
+Steak Burrito,"RoastedChiliCornSalsaMedium,TomatilloGreenChiliSalsaMedium,Rice,BlackBeans,PintoBeans,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Steak Burrito,"RoastedChiliCornSalsaMedium,TomatilloGreenChiliSalsaMedium,Rice,BlackBeans,SourCream,Guacamole",1
+Steak Burrito,"RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,FreshTomatoSalsaMild,Rice,BlackBeans,PintoBeans,Cheese,SourCream,Lettuce",1
+Steak Burrito,"RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,FreshTomatoSalsaMild,Rice,PintoBeans,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Steak Burrito,"RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,PintoBeans,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Steak Burrito,TomatilloGreenChiliSalsa,1
+Steak Burrito,"TomatilloGreenChiliSalsa,Cheese",1
+Steak Burrito,"TomatilloGreenChiliSalsa,FajitaVegetables,Cheese,SourCream,Guacamole,Lettuce,Rice",1
+Steak Burrito,"TomatilloGreenChiliSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,Lettuce",1
+Steak Burrito,"TomatilloGreenChiliSalsa,Lettuce,Guacamole,SourCream,Cheese,FajitaVegetables,Rice",1
+Steak Burrito,"TomatilloGreenChiliSalsa,Rice,BlackBeans,Cheese,Guacamole,Lettuce",1
+Steak Burrito,"TomatilloGreenChiliSalsa,Rice,BlackBeans,Cheese,SourCream",1
+Steak Burrito,"TomatilloGreenChiliSalsa,Rice,BlackBeans,Lettuce",1
+Steak Burrito,"TomatilloGreenChiliSalsa,Rice,BlackBeans,PintoBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Burrito,"TomatilloGreenChiliSalsa,Rice,BlackBeans,SourCream,Lettuce",1
+Steak Burrito,"TomatilloGreenChiliSalsa,Rice,Cheese,SourCream,Guacamole",1
+Steak Burrito,"TomatilloGreenChiliSalsa,Rice,FajitaVegetables,BlackBeans,Cheese",1
+Steak Burrito,"TomatilloGreenChiliSalsa,Rice,PintoBeans,Cheese,SourCream,Guacamole",1
+Steak Burrito,"TomatilloGreenChiliSalsaMedium,BlackBeans,Rice,Cheese",1
+Steak Burrito,"TomatilloGreenChiliSalsaMedium,BlackBeans,Rice,Cheese,SourCream,Lettuce",1
+Steak Burrito,"TomatilloGreenChiliSalsaMedium,Cheese,Lettuce",1
+Steak Burrito,"TomatilloGreenChiliSalsaMedium,PintoBeans,Rice,Cheese,SourCream",1
+Steak Burrito,"TomatilloGreenChiliSalsaMedium,Rice,BlackBeans,SourCream,Guacamole",1
+Steak Burrito,"TomatilloGreenChiliSalsaMedium,Rice,FajitaVeggies,Cheese,Lettuce",1
+Steak Burrito,"TomatilloGreenChiliSalsaMedium,RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,BlackBeans,Rice,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Burrito,"TomatilloGreenChiliSalsaMedium,RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,PintoBeans,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Steak Burrito,"TomatilloGreenChiliSalsaMedium,TomatilloRedChiliSalsaHot,BlackBeans,Rice,FajitaVeggies,SourCream",1
+Steak Burrito,"TomatilloRedChiliHot,Lettuce,BlackBeans,Rice,SourCream,Cheese",1
+Steak Burrito,"TomatilloRedChiliHot,Lettuce,Rice,SourCream,Cheese",1
+Steak Burrito,"TomatilloRedChiliSalsa,Cheese,BlackBeans,Rice,Lettuce,SourCream",1
+Steak Burrito,"TomatilloRedChiliSalsa,Cheese,SourCream",1
+Steak Burrito,"TomatilloRedChiliSalsa,FajitaVegetables,BlackBeans,Cheese,SourCream,Guacamole",1
+Steak Burrito,"TomatilloRedChiliSalsa,FajitaVegetables,BlackBeans,PintoBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Burrito,"TomatilloRedChiliSalsa,FajitaVegetables,Rice,BlackBeans,PintoBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Burrito,"TomatilloRedChiliSalsa,FajitaVegetables,Rice,BlackBeans,SourCream,Guacamole",1
+Steak Burrito,"TomatilloRedChiliSalsa,FajitaVegetables,Rice,Cheese,SourCream",1
+Steak Burrito,"TomatilloRedChiliSalsa,Rice,BlackBeans",1
+Steak Burrito,"TomatilloRedChiliSalsa,Rice,BlackBeans,Cheese,Lettuce",1
+Steak Burrito,"TomatilloRedChiliSalsa,Rice,BlackBeans,Cheese,Lettuce,SourCream",1
+Steak Burrito,"TomatilloRedChiliSalsa,Rice,BlackBeans,Lettuce",1
+Steak Burrito,"TomatilloRedChiliSalsa,Rice,BlackBeans,SourCream,Lettuce",1
+Steak Burrito,"TomatilloRedChiliSalsa,Rice,Cheese,SourCream",1
+Steak Burrito,"TomatilloRedChiliSalsa,Rice,FajitaVegetables,PintoBeans,SourCream,Lettuce",1
+Steak Burrito,"TomatilloRedChiliSalsa,Rice,FajitaVegetables,SourCream,Cheese,Lettuce,Guacamole",1
+Steak Burrito,"TomatilloRedChiliSalsa,Rice,Lettuce",1
+Steak Burrito,"TomatilloRedChiliSalsa,Rice,PintoBeans,Cheese,SourCream",1
+Steak Burrito,"TomatilloRedChiliSalsa,SourCream",1
+Steak Burrito,"TomatilloRedChiliSalsaHot,BlackBeans,Rice,Cheese,Lettuce",1
+Steak Burrito,"TomatilloRedChiliSalsaHot,BlackBeans,Rice,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Burrito,"TomatilloRedChiliSalsaHot,BlackBeans,Rice,Cheese,SourCream,Lettuce",1
+Steak Burrito,"TomatilloRedChiliSalsaHot,BlackBeans,Rice,FajitaVeggies,Cheese",1
+Steak Burrito,"TomatilloRedChiliSalsaHot,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Steak Burrito,"TomatilloRedChiliSalsaHot,Guacamole,Lettuce,SourCream,Rice,Cheese,BlackBeans",1
+Steak Burrito,"TomatilloRedChiliSalsaHot,PintoBeans,Cheese,SourCream,Lettuce",1
+Steak Burrito,"TomatilloRedChiliSalsaHot,PintoBeans,Rice,Cheese,SourCream",1
+Steak Burrito,"TomatilloRedChiliSalsaHot,PintoBeans,Rice,FajitaVeggies,Cheese,SourCream",1
+Steak Burrito,"TomatilloRedChiliSalsaHot,Rice",1
+Steak Burrito,"TomatilloRedChiliSalsaHot,Rice,Cheese",1
+Steak Burrito,"TomatilloRedChiliSalsaHot,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Steak Burrito,"TomatilloRedChiliSalsaHot,Rice,PintoBeans,Cheese",1
+Steak Crispy Tacos,"RoastedChiliCornSalsa,FajitaVegetables,SourCream,Cheese,Lettuce,Guacamole",5
+Steak Crispy Tacos,"FreshTomatoSalsa,Rice,Cheese,SourCream,Lettuce",2
+Steak Crispy Tacos,"TomatilloGreenChiliSalsa,Cheese,SourCream,Guacamole",2
+Steak Crispy Tacos,"TomatilloRedChiliSalsaHot,PintoBeans,Cheese,SourCream,Lettuce",2
+Steak Crispy Tacos,"FreshTomatoMild,Lettuce,Cheese",1
+Steak Crispy Tacos,FreshTomatoSalsa,1
+Steak Crispy Tacos,"FreshTomatoSalsa,BlackBeans,Cheese,SourCream,Lettuce",1
+Steak Crispy Tacos,"FreshTomatoSalsa,Cheese,Guacamole",1
+Steak Crispy Tacos,"FreshTomatoSalsa,Cheese,Lettuce",1
+Steak Crispy Tacos,"FreshTomatoSalsa,Guacamole",1
+Steak Crispy Tacos,"FreshTomatoSalsa,Lettuce",1
+Steak Crispy Tacos,"FreshTomatoSalsa,SourCream",1
+Steak Crispy Tacos,"FreshTomatoSalsa,SourCream,Cheese,Lettuce,Guacamole",1
+Steak Crispy Tacos,"FreshTomatoSalsa,SourCream,Lettuce,Rice,Cheese",1
+Steak Crispy Tacos,"FreshTomatoSalsaMild,Cheese,SourCream,Lettuce",1
+Steak Crispy Tacos,"FreshTomatoSalsaMild,Rice,Cheese",1
+Steak Crispy Tacos,"RoastedChiliCornSalsa,Cheese,SourCream,Lettuce",1
+Steak Crispy Tacos,"RoastedChiliCornSalsa,SourCream,Cheese,Lettuce,Guacamole",1
+Steak Crispy Tacos,"RoastedChiliCornSalsaMedium,Rice,Cheese,Lettuce",1
+Steak Crispy Tacos,"RoastedChiliCornSalsaMedium,TomatilloGreenChiliSalsaMedium,Rice,BlackBeans,Cheese,SourCream",1
+Steak Crispy Tacos,"TomatilloGreenChiliSalsa,FajitaVegetables,Cheese,Lettuce",1
+Steak Crispy Tacos,"TomatilloGreenChiliSalsaMedium,PintoBeans",1
+Steak Crispy Tacos,"TomatilloRedChiliSalsa,Cheese,SourCream",1
+Steak Crispy Tacos,"TomatilloRedChiliSalsa,FajitaVegetables,Rice,Cheese,SourCream,Lettuce",1
+Steak Crispy Tacos,"TomatilloRedChiliSalsa,Rice",1
+Steak Crispy Tacos,"TomatilloRedChiliSalsa,Rice,PintoBeans,SourCream,Cheese,Lettuce",1
+Steak Crispy Tacos,"TomatilloRedChiliSalsaHot,Cheese,Lettuce",1
+Steak Crispy Tacos,"TomatilloRedChiliSalsaHot,Rice,Cheese,SourCream,Lettuce",1
+Steak Salad,"TomatilloRedChiliSalsaHot,BlackBeans,Rice,FajitaVeggies,Cheese,Lettuce",2
+Steak Salad,"FreshTomatoSalsaMild,Rice,Cheese,SourCream,Lettuce",1
+Steak Salad,"Lettuce,FajitaVeggies",1
+Steak Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,Lettuce",2
+Steak Salad Bowl,"FreshTomatoSalsa,BlackBeans,Cheese,Guacamole,Lettuce",1
+Steak Salad Bowl,"FreshTomatoSalsa,BlackBeans,PintoBeans,Cheese",1
+Steak Salad Bowl,"FreshTomatoSalsa,BlackBeans,SourCream,Cheese,Lettuce",1
+Steak Salad Bowl,"FreshTomatoSalsa,Cheese,Guacamole,Lettuce",1
+Steak Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,BlackBeans,Cheese,SourCream,Guacamole",1
+Steak Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,Cheese,SourCream",1
+Steak Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,Guacamole",1
+Steak Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Guacamole",1
+Steak Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,SourCream,Cheese,Lettuce,Guacamole",1
+Steak Salad Bowl,"FreshTomatoSalsa,Lettuce",1
+Steak Salad Bowl,"FreshTomatoSalsa,PintoBeans,Cheese,Guacamole,Lettuce",1
+Steak Salad Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,Guacamole",1
+Steak Salad Bowl,"FreshTomatoSalsa,Rice,FajitaVegetables,SourCream,Cheese,Lettuce,Guacamole",1
+Steak Salad Bowl,"FreshTomatoSalsa,Rice,PintoBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Salad Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Cheese",1
+Steak Salad Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Cheese,Lettuce",1
+Steak Salad Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Salad Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Lettuce",1
+Steak Salad Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Guacamole",1
+Steak Salad Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,Cheese,Guacamole,Lettuce",1
+Steak Salad Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,PintoBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Salad Bowl,"RoastedChiliCornSalsa,Rice,BlackBeans,PintoBeans,Cheese,SourCream,Lettuce",1
+Steak Salad Bowl,"RoastedChiliCornSalsa,Rice,Cheese,Lettuce,Guacamole",1
+Steak Salad Bowl,"TomatilloRedChiliSalsa,BlackBeans,Cheese,Guacamole",1
+Steak Salad Bowl,"TomatilloRedChiliSalsa,FajitaVegetables,BlackBeans,Cheese,Guacamole,Lettuce",1
+Steak Salad Bowl,"TomatilloRedChiliSalsa,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Soft Tacos,"FreshTomatoSalsa,Cheese,Lettuce",7
+Steak Soft Tacos,"FreshTomatoSalsa,Cheese,SourCream",5
+Steak Soft Tacos,"FreshTomatoSalsa,SourCream,Cheese,Lettuce,Guacamole",2
+Steak Soft Tacos,"FreshTomatoSalsaMild,TomatilloGreenChiliSalsaMedium,Rice,FajitaVeggies,Cheese,Guacamole,Lettuce",2
+Steak Soft Tacos,"TomatilloGreenChiliSalsaMedium,Cheese,SourCream",2
+Steak Soft Tacos,FreshTomatoSalsa,1
+Steak Soft Tacos,"FreshTomatoSalsa,Cheese",1
+Steak Soft Tacos,"FreshTomatoSalsa,Cheese,SourCream,Lettuce",1
+Steak Soft Tacos,"FreshTomatoSalsa,FajitaVegetables,BlackBeans",1
+Steak Soft Tacos,"FreshTomatoSalsa,FajitaVegetables,Rice,Cheese,SourCream,Lettuce",1
+Steak Soft Tacos,"FreshTomatoSalsa,Guacamole",1
+Steak Soft Tacos,"FreshTomatoSalsa,Rice,Cheese,Lettuce",1
+Steak Soft Tacos,"FreshTomatoSalsa,Rice,SourCream,Cheese",1
+Steak Soft Tacos,"FreshTomatoSalsa,SourCream",1
+Steak Soft Tacos,"FreshTomatoSalsa,SourCream,Cheese",1
+Steak Soft Tacos,"FreshTomatoSalsaMild,Cheese,SourCream",1
+Steak Soft Tacos,"FreshTomatoSalsaMild,TomatilloGreenChiliSalsaMedium,RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,Cheese,SourCream",1
+Steak Soft Tacos,"FreshTomatoSalsaMild,TomatilloRedChiliSalsaHot,BlackBeans,Rice,Cheese,SourCream,Guacamole,Lettuce",1
+Steak Soft Tacos,"RoastedChiliCornSalsa,BlackBeans,SourCream,Lettuce",1
+Steak Soft Tacos,"RoastedChiliCornSalsa,FajitaVegetables,Cheese,SourCream,Lettuce",1
+Steak Soft Tacos,"RoastedChiliCornSalsa,Rice,BlackBeans,Cheese,Lettuce",1
+Steak Soft Tacos,"RoastedChiliCornSalsa,Rice,Cheese,SourCream,Lettuce",1
+Steak Soft Tacos,"RoastedChiliCornSalsa,Rice,PintoBeans,SourCream,Cheese,Lettuce",1
+Steak Soft Tacos,"RoastedChiliCornSalsaMedium,BlackBeans,Rice,Cheese,SourCream",1
+Steak Soft Tacos,"RoastedChiliCornSalsaMedium,Lettuce",1
+Steak Soft Tacos,"RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,Cheese,SourCream,Lettuce",1
+Steak Soft Tacos,"TomatilloGreenChiliSalsa,FajitaVegetables,BlackBeans,Cheese,Guacamole,Lettuce",1
+Steak Soft Tacos,"TomatilloGreenChiliSalsa,FajitaVegetables,Rice,Cheese,SourCream,Guacamole",1
+Steak Soft Tacos,"TomatilloGreenChiliSalsa,PintoBeans,Cheese,SourCream,Lettuce",1
+Steak Soft Tacos,"TomatilloGreenChiliSalsa,Rice,BlackBeans,SourCream,Cheese,Lettuce",1
+Steak Soft Tacos,"TomatilloGreenChiliSalsa,Rice,PintoBeans,Cheese,SourCream",1
+Steak Soft Tacos,"TomatilloGreenChiliSalsa,SourCream,Cheese,Guacamole,Rice,FajitaVegetables",1
+Steak Soft Tacos,"TomatilloGreenChiliSalsaMedium,Rice,Cheese,SourCream,Lettuce",1
+Steak Soft Tacos,"TomatilloGreenChiliSalsaMedium,RoastedChiliCornSalsaMedium,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Steak Soft Tacos,TomatilloRedChiliSalsa,1
+Steak Soft Tacos,"TomatilloRedChiliSalsa,Cheese,SourCream",1
+Steak Soft Tacos,"TomatilloRedChiliSalsa,FajitaVegetables,BlackBeans,Cheese,SourCream,Lettuce",1
+Steak Soft Tacos,"TomatilloRedChiliSalsaHot,Cheese,SourCream,Lettuce",1
+Steak Soft Tacos,"TomatilloRedChiliSalsaHot,Lettuce",1
+Steak Soft Tacos,"TomatilloRedChiliSalsaHot,PintoBeans,BlackBeans,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Steak Soft Tacos,"TomatilloRedChiliSalsaHot,Rice,Cheese,Lettuce",1
+Steak Soft Tacos,"TomatilloRedChiliSalsaHot,Rice,Cheese,SourCream,Lettuce",1
+Veggie Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,Cheese,SourCream,Guacamole,Lettuce",5
+Veggie Bowl,"FreshTomatoSalsaMild,PintoBeans,Rice,Cheese,SourCream",4
+Veggie Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream",3
+Veggie Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",3
+Veggie Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,SourCream,Lettuce",3
+Veggie Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,Lettuce",3
+Veggie Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Guacamole",3
+Veggie Bowl,"TomatilloRedChiliSalsa,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",3
+Veggie Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,Guacamole",2
+Veggie Bowl,"RoastedChiliCornSalsa,Rice,BlackBeans,Cheese,SourCream,Guacamole",2
+Veggie Bowl,"RoastedChiliCornSalsa,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",2
+Veggie Bowl,"TomatilloRedChiliSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,Guacamole,Lettuce",2
+Veggie Bowl,"FreshTomatoSalsa,BlackBeans,PintoBeans,Cheese,Guacamole,Lettuce",1
+Veggie Bowl,"FreshTomatoSalsa,FajitaVegetables,BlackBeans,Cheese,Guacamole,Lettuce",1
+Veggie Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Veggie Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Lettuce",1
+Veggie Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Guacamole",1
+Veggie Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Guacamole,Lettuce",1
+Veggie Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Lettuce",1
+Veggie Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,PintoBeans,Cheese",1
+Veggie Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,PintoBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Veggie Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,SourCream,Lettuce",1
+Veggie Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,Cheese,SourCream,Lettuce",1
+Veggie Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,Guacamole,Lettuce",1
+Veggie Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,SourCream,Guacamole",1
+Veggie Bowl,"FreshTomatoSalsa,Rice,FajitaVegetables,PintoBeans,Cheese",1
+Veggie Bowl,"FreshTomatoSalsaMild,BlackBeans,Rice,FajitaVeggies,Cheese,Lettuce",1
+Veggie Bowl,"FreshTomatoSalsaMild,PintoBeans,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream,Guacamole,Lettuce",1
+Veggie Bowl,"FreshTomatoSalsaMild,Rice,SourCream,Cheese,PintoBeans",1
+Veggie Bowl,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream",1
+Veggie Bowl,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Veggie Bowl,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,Cheese,SourCream,Lettuce",1
+Veggie Bowl,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,Rice,FajitaVeggies",1
+Veggie Bowl,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,Rice,FajitaVeggies,Lettuce",1
+Veggie Bowl,"FreshTomatoSalsaMild,TomatilloGreenChiliSalsaMedium,RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,PintoBeans,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Veggie Bowl,"FreshTomatoSalsaMild,TomatilloRedChiliSalsaHot,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream,Guacamole,Lettuce",1
+Veggie Bowl,"RoastedChiliCornSalsa,BlackBeans,Cheese,SourCream,Guacamole",1
+Veggie Bowl,"RoastedChiliCornSalsa,FajitaVegetables",1
+Veggie Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Cheese,SourCream,Guacamole,Lettuce",1
+Veggie Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,Guacamole,Lettuce",1
+Veggie Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream",1
+Veggie Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Lettuce",1
+Veggie Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Guacamole,Lettuce",1
+Veggie Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,PintoBeans,SourCream,Guacamole,Lettuce",1
+Veggie Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,Cheese,SourCream,Guacamole,Lettuce",1
+Veggie Bowl,"RoastedChiliCornSalsa,Rice,BlackBeans,Cheese,SourCream,Lettuce",1
+Veggie Bowl,"RoastedChiliCornSalsa,Rice,BlackBeans,SourCream,Lettuce",1
+Veggie Bowl,"RoastedChiliCornSalsa,Rice,FajitaVegetables,BlackBeans,SourCream,Cheese,Lettuce",1
+Veggie Bowl,"RoastedChiliCornSalsa,Rice,PintoBeans,Cheese,SourCream",1
+Veggie Bowl,"RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,BlackBeans,Rice,Cheese,Guacamole,Lettuce",1
+Veggie Bowl,"TomatilloGreenChiliSalsa,FajitaVegetables,Rice,Cheese,Guacamole,Lettuce",1
+Veggie Bowl,"TomatilloGreenChiliSalsa,Rice,BlackBeans,Cheese,Guacamole",1
+Veggie Bowl,"TomatilloGreenChiliSalsa,Rice,BlackBeans,Cheese,Lettuce",1
+Veggie Bowl,"TomatilloGreenChiliSalsaMedium,BlackBeans,Rice,Cheese,SourCream,Guacamole,Lettuce",1
+Veggie Bowl,"TomatilloGreenChiliSalsaMedium,RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,BlackBeans,Rice,FajitaVeggies,Lettuce",1
+Veggie Bowl,"TomatilloGreenChiliSalsaMedium,RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,PintoBeans,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Veggie Bowl,"TomatilloRedChiliSalsa,FajitaVegetables,BlackBeans,Cheese,Guacamole,Lettuce",1
+Veggie Bowl,"TomatilloRedChiliSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Guacamole",1
+Veggie Bowl,"TomatilloRedChiliSalsa,FajitaVegetables,Rice,PintoBeans,Cheese,SourCream,Lettuce",1
+Veggie Bowl,"TomatilloRedChiliSalsa,Rice,BlackBeans,SourCream,Guacamole,Lettuce",1
+Veggie Bowl,"TomatilloRedChiliSalsaHot,PintoBeans,BlackBeans,Rice,FajitaVeggies,Cheese",1
+Veggie Bowl,"TomatilloRedChiliSalsaHot,PintoBeans,BlackBeans,Rice,FajitaVeggies,Lettuce",1
+Veggie Burrito,"FreshTomatoSalsaMild,PintoBeans,Rice,Cheese,SourCream",12
+Veggie Burrito,"FreshTomatoSalsa,Rice,PintoBeans,Cheese",6
+Veggie Burrito,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,BlackBeans,Rice,FajitaVeggies,Lettuce",4
+Veggie Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,Guacamole,Lettuce",3
+Veggie Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Guacamole",3
+Veggie Burrito,"FreshTomatoSalsaMild,Cheese,Rice,PintoBeans,SourCream",3
+Veggie Burrito,"RoastedChiliCornSalsa,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",3
+Veggie Burrito,"TomatilloGreenChiliSalsaMedium,RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,BlackBeans,Rice,FajitaVeggies,Lettuce",3
+Veggie Burrito,"TomatilloRedChiliSalsa,FajitaVegetables,Rice,PintoBeans,Cheese,Lettuce",3
+Veggie Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",2
+Veggie Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Guacamole,Lettuce",2
+Veggie Burrito,"FreshTomatoSalsa,Rice,FajitaVegetables,BlackBeans,Lettuce,Guacamole",2
+Veggie Burrito,"FreshTomatoSalsaMild,PintoBeans,Rice,SourCream,Cheese",2
+Veggie Burrito,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",2
+Veggie Burrito,"TomatilloRedChiliSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,Guacamole,Lettuce",2
+Veggie Burrito,"FreshTomatoSalsa,Cheese,Rice,PintoBeans",1
+Veggie Burrito,"FreshTomatoSalsa,Cheese,SourCream,Guacamole",1
+Veggie Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,Lettuce",1
+Veggie Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream",1
+Veggie Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,PintoBeans,Cheese,SourCream,Guacamole",1
+Veggie Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,SourCream,Guacamole,Lettuce",1
+Veggie Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,PintoBeans,Cheese,Guacamole,Lettuce",1
+Veggie Burrito,"FreshTomatoSalsa,FajitaVegetables,Rice,PintoBeans,Cheese,Lettuce",1
+Veggie Burrito,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,Lettuce",1
+Veggie Burrito,"FreshTomatoSalsa,Rice,BlackBeans,Guacamole,Lettuce",1
+Veggie Burrito,"FreshTomatoSalsa,Rice,BlackBeans,SourCream,Guacamole",1
+Veggie Burrito,"FreshTomatoSalsaMild,BlackBeans,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Veggie Burrito,"FreshTomatoSalsaMild,BlackBeans,Rice,Cheese,SourCream,Lettuce",1
+Veggie Burrito,"FreshTomatoSalsaMild,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream",1
+Veggie Burrito,"FreshTomatoSalsaMild,BlackBeans,Rice,FajitaVeggies,SourCream,Lettuce",1
+Veggie Burrito,"FreshTomatoSalsaMild,Cheese,PintoBeans,SourCream,Rice",1
+Veggie Burrito,"FreshTomatoSalsaMild,PintoBeans,Cheese",1
+Veggie Burrito,"FreshTomatoSalsaMild,Rice,PintoBeans,Cheese,SourCream",1
+Veggie Burrito,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,BlackBeans,Rice,Cheese,SourCream,Guacamole",1
+Veggie Burrito,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,BlackBeans,Rice,Cheese,SourCream,Lettuce",1
+Veggie Burrito,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,BlackBeans,Rice,FajitaVeggies,Cheese,Lettuce",1
+Veggie Burrito,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Veggie Burrito,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,Rice,FajitaVeggies,SourCream",1
+Veggie Burrito,"FreshTomatoSalsaMild,TomatilloGreenChiliSalsaMedium,RoastedChiliCornSalsaMedium,BlackBeans,Rice,FajitaVeggies,SourCream,Lettuce",1
+Veggie Burrito,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,PintoBeans,Cheese,SourCream,Lettuce",1
+Veggie Burrito,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,SourCream,Guacamole,Lettuce",1
+Veggie Burrito,"RoastedChiliCornSalsaMedium,BlackBeans,Rice,Cheese,SourCream,Lettuce",1
+Veggie Burrito,"RoastedChiliCornSalsaMedium,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream,Guacamole,Lettuce",1
+Veggie Burrito,"RoastedChiliCornSalsaMedium,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Veggie Burrito,"RoastedChiliCornSalsaMedium,FreshTomatoSalsaMild,Rice,BlackBeans,PintoBeans,FajitaVeggies,Guacamole,Lettuce",1
+Veggie Burrito,TomatilloGreenChiliSalsa,1
+Veggie Burrito,"TomatilloGreenChiliSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Lettuce",1
+Veggie Burrito,"TomatilloGreenChiliSalsa,FajitaVegetables,Rice,Cheese,Guacamole,Lettuce",1
+Veggie Burrito,"TomatilloGreenChiliSalsa,Guacamole",1
+Veggie Burrito,"TomatilloGreenChiliSalsa,Rice,FajitaVegetables,BlackBeans,Guacamole",1
+Veggie Burrito,"TomatilloGreenChiliSalsa,Rice,FajitaVegetables,PintoBeans,SourCream,Cheese,Lettuce,Guacamole",1
+Veggie Burrito,"TomatilloGreenChiliSalsaMedium,BlackBeans,Rice,Cheese",1
+Veggie Burrito,"TomatilloGreenChiliSalsaMedium,BlackBeans,Rice,FajitaVeggies,Cheese,SourCream",1
+Veggie Burrito,"TomatilloGreenChiliSalsaMedium,RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,BlackBeans,Rice,FajitaVeggies,Guacamole,Lettuce",1
+Veggie Burrito,"TomatilloRedChiliSalsa,BlackBeans,Cheese,Guacamole",1
+Veggie Burrito,"TomatilloRedChiliSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Veggie Burrito,"TomatilloRedChiliSalsa,FajitaVegetables,Rice,Cheese,SourCream,Lettuce",1
+Veggie Burrito,"TomatilloRedChiliSalsa,FajitaVegetables,Rice,SourCream,Guacamole,Lettuce",1
+Veggie Crispy Tacos,"FreshTomatoSalsaMild,PintoBeans,Rice,Cheese,SourCream",1
+Veggie Salad,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,BlackBeans,Rice,FajitaVeggies,Lettuce",2
+Veggie Salad,"TomatilloGreenChiliSalsaMedium,RoastedChiliCornSalsaMedium,TomatilloRedChiliSalsaHot,BlackBeans,Rice,FajitaVeggies,Lettuce",2
+Veggie Salad,"FreshTomatoSalsaMild,RoastedChiliCornSalsaMedium,Rice,FajitaVeggies,Lettuce",1
+Veggie Salad,"RoastedChiliCornSalsaMedium,BlackBeans,Rice,Cheese,SourCream,Lettuce",1
+Veggie Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,Guacamole,Lettuce",2
+Veggie Salad Bowl,"TomatilloRedChiliSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,Guacamole",2
+Veggie Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,BlackBeans,Guacamole",1
+Veggie Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,Lettuce",1
+Veggie Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,Lettuce,Guacamole,SourCream,Cheese,BlackBeans,Rice",1
+Veggie Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,PintoBeans,Lettuce",1
+Veggie Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream",1
+Veggie Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Veggie Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,Guacamole",1
+Veggie Salad Bowl,"FreshTomatoSalsa,FajitaVegetables,Rice,PintoBeans,Cheese,Lettuce",1
+Veggie Salad Bowl,"FreshTomatoSalsa,Rice,BlackBeans,Cheese,SourCream",1
+Veggie Salad Bowl,"FreshTomatoSalsa,Rice,Lettuce,Guacamole,FajitaVegetables,Cheese,SourCream,BlackBeans",1
+Veggie Salad Bowl,"RoastedChiliCornSalsa,FajitaVegetables",1
+Veggie Salad Bowl,"RoastedChiliCornSalsa,FajitaVegetables,Rice,BlackBeans,Lettuce",1
+Veggie Salad Bowl,"TomatilloGreenChiliSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,SourCream,Lettuce",1
+Veggie Salad Bowl,"TomatilloRedChiliSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,Guacamole,Lettuce",1
+Veggie Soft Tacos,"FreshTomatoSalsa,BlackBeans,Cheese,SourCream,Lettuce",1
+Veggie Soft Tacos,"FreshTomatoSalsa,FajitaVegetables,Rice,BlackBeans,PintoBeans,Cheese,SourCream,Guacamole,Lettuce",1
+Veggie Soft Tacos,"FreshTomatoSalsaMild,BlackBeans,Rice,Cheese,Lettuce",1
+Veggie Soft Tacos,"FreshTomatoSalsaMild,PintoBeans,Rice,Cheese,SourCream",1
+Veggie Soft Tacos,"RoastedChiliCornSalsa,FajitaVegetables,BlackBeans,PintoBeans,Cheese,Lettuce",1
+Veggie Soft Tacos,"RoastedChiliCornSalsaMedium,BlackBeans,FajitaVeggies,Cheese,SourCream,Lettuce",1
+Veggie Soft Tacos,"TomatilloRedChiliSalsa,FajitaVegetables,Rice,BlackBeans,Cheese,Guacamole,Lettuce",1
