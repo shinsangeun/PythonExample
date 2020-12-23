@@ -1,3 +1,5 @@
+# 데코레이터: @classmethod 클래스 함수라고 선언 해줌
+
 class Student:
     count = 0
     students = []

@@ -1,4 +1,5 @@
 # 클래스 선언
+# __init__: 초기화 함수. 무조건 self 인자가 있어야 함. 클래스 함수에서도 사용 됨.
 class Student:
     def __init__(self, name, korean, math, english, science):
         self.name = name

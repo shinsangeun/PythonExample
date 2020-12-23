@@ -1,3 +1,5 @@
+# 딕셔너리로 만들었을 때 비효율적이고 코드가 복잡함
+
 def create_student(name, korean, math, english, science):
     return{
         "name": name,

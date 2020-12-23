@@ -1,3 +1,5 @@
+# 클래스를 선언하여 코드를 깔끔하게 수정함
+
 class Student:
     def __init__(self, name, korean, math, english, science):
         self.name = name

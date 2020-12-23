@@ -1,3 +1,5 @@
+# isinstance(): 인스턴스가 클래스와 연관이 있는지 확인하는 함수
+
 class Student:
     def study(self):
         print("공부를 합니다")
